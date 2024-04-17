@@ -1,0 +1,71 @@
+OpenROAD 41a51eaf4ca2171c92ff38afb91eb37bbd3f36da 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO]: Reading ODB at '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/routing/./20-diodes_legalized.odb'…
+define_corners Typical
+read_liberty -corner Typical /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+Using 1e-12 for capacitance...
+Using 1e+03 for resistance...
+Using 1e-09 for time...
+Using 1e+00 for voltage...
+Using 1e-03 for current...
+Using 1e-09 for power...
+Using 1e-06 for distance...
+Reading design constraints file at '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/18-user_proj_example.sdc'…
+[WARNING STA-0357] virtual clock clk can not be propagated.
+[INFO]: Setting signal min routing layer to: met1 and clock min routing layer to met1. 
+[INFO]: Setting signal max routing layer to: met4 and clock max routing layer to met4. 
+-congestion_iterations 50 -verbose -congestion_report_file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/routing/groute-congestion.rpt
+[INFO GRT-0020] Min routing layer: met1
+[INFO GRT-0021] Max routing layer: met4
+[INFO GRT-0022] Global adjustment: 30%
+[INFO GRT-0023] Grid origin: (0, 0)
+[INFO GRT-0043] No OR_DEFAULT vias defined.
+[INFO GRT-0088] Layer li1     Track-Pitch = 0.4600  line-2-Via Pitch: 0.3400
+[INFO GRT-0088] Layer met1    Track-Pitch = 0.3400  line-2-Via Pitch: 0.3400
+[INFO GRT-0088] Layer met2    Track-Pitch = 0.4600  line-2-Via Pitch: 0.3500
+[INFO GRT-0088] Layer met3    Track-Pitch = 0.6800  line-2-Via Pitch: 0.6150
+[INFO GRT-0088] Layer met4    Track-Pitch = 0.9200  line-2-Via Pitch: 0.6150
+[INFO GRT-0019] Found 0 clock nets.
+[INFO GRT-0001] Minimum degree: 2
+[INFO GRT-0002] Maximum degree: 3
+[INFO GRT-0003] Macros: 1
+[INFO GRT-0004] Blockages: 1748
+
+[INFO GRT-0053] Routing resources analysis:
+          Routing      Original      Derated      Resource
+Layer     Direction    Resources     Resources    Reduction (%)
+---------------------------------------------------------------
+li1        Vertical            0             0          0.00%
+met1       Horizontal     816080        393858          51.74%
+met2       Vertical       612060        364875          40.39%
+met3       Horizontal     408040        276996          32.12%
+met4       Vertical       285628        157516          44.85%
+---------------------------------------------------------------
+
+[INFO GRT-0197] Via related to pin nodes: 85
+[INFO GRT-0198] Via related Steiner nodes: 4
+[INFO GRT-0199] Via filling finished.
+[INFO GRT-0111] Final number of vias: 103
+[INFO GRT-0112] Final usage 3D: 1331
+
+[INFO GRT-0096] Final congestion report:
+Layer         Resource        Demand        Usage (%)    Max H / Max V / Total Overflow
+---------------------------------------------------------------------------------------
+li1                  0             0            0.00%             0 /  0 /  0
+met1            393858           220            0.06%             0 /  0 /  0
+met2            364875           289            0.08%             0 /  0 /  0
+met3            276996           356            0.13%             0 /  0 /  0
+met4            157516           157            0.10%             0 /  0 /  0
+---------------------------------------------------------------------------------------
+Total          1193245          1022            0.09%             0 /  0 /  0
+
+[INFO GRT-0018] Total wirelength: 7852 um
+[INFO GRT-0014] Routed nets: 17
+[INFO GRT-0006] Repairing antennas, iteration 1.
+[INFO GRT-0043] No OR_DEFAULT vias defined.
+[INFO GRT-0012] Found 0 antenna violations.
+Setting global connections for newly added cells…
+Writing OpenROAD database to '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/routing/22-global.odb'…
+Writing layout to '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/routing/22-global.def'…
+Writing routing guides to '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_00_32/tmp/routing/22-global.guide'…

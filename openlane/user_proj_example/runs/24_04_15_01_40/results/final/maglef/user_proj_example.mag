@@ -1,0 +1,209 @@
+magic
+tech sky130B
+magscale 1 2
+timestamp 1713163513
+<< obsli1 >>
+rect 1104 2159 358892 357425
+<< obsm1 >>
+rect 934 2128 358892 357456
+<< metal2 >>
+rect 36082 0 36138 800
+rect 108026 0 108082 800
+rect 179970 0 180026 800
+rect 251914 0 251970 800
+rect 323858 0 323914 800
+<< obsm2 >>
+rect 938 856 350122 357445
+rect 938 800 36026 856
+rect 36194 800 107970 856
+rect 108138 800 179914 856
+rect 180082 800 251858 856
+rect 252026 800 323802 856
+rect 323970 800 350122 856
+<< metal3 >>
+rect 0 314984 800 315104
+rect 0 224952 800 225072
+rect 0 134920 800 135040
+rect 0 44888 800 45008
+<< obsm3 >>
+rect 800 315184 350126 357441
+rect 880 314904 350126 315184
+rect 800 225152 350126 314904
+rect 880 224872 350126 225152
+rect 800 135120 350126 224872
+rect 880 134840 350126 135120
+rect 800 45088 350126 134840
+rect 880 44808 350126 45088
+rect 800 2143 350126 44808
+<< metal4 >>
+rect 4208 2128 4528 357456
+rect 11888 2128 12208 357456
+rect 19568 2128 19888 357456
+rect 27248 2128 27568 357456
+rect 34928 2128 35248 357456
+rect 42608 2128 42928 357456
+rect 50288 2128 50608 357456
+rect 57968 2128 58288 357456
+rect 65648 2128 65968 357456
+rect 73328 2128 73648 357456
+rect 81008 2128 81328 357456
+rect 88688 2128 89008 357456
+rect 96368 2128 96688 357456
+rect 104048 2128 104368 357456
+rect 111728 2128 112048 357456
+rect 119408 2128 119728 357456
+rect 127088 2128 127408 357456
+rect 134768 2128 135088 357456
+rect 142448 2128 142768 357456
+rect 150128 2128 150448 357456
+rect 157808 2128 158128 357456
+rect 165488 2128 165808 357456
+rect 173168 2128 173488 357456
+rect 180848 2128 181168 357456
+rect 188528 2128 188848 357456
+rect 196208 2128 196528 357456
+rect 203888 2128 204208 357456
+rect 211568 2128 211888 357456
+rect 219248 2128 219568 357456
+rect 226928 2128 227248 357456
+rect 234608 2128 234928 357456
+rect 242288 2128 242608 357456
+rect 249968 2128 250288 357456
+rect 257648 2128 257968 357456
+rect 265328 2128 265648 357456
+rect 273008 2128 273328 357456
+rect 280688 2128 281008 357456
+rect 288368 2128 288688 357456
+rect 296048 2128 296368 357456
+rect 303728 2128 304048 357456
+rect 311408 2128 311728 357456
+rect 319088 2128 319408 357456
+rect 326768 2128 327088 357456
+rect 334448 2128 334768 357456
+rect 342128 2128 342448 357456
+rect 349808 2128 350128 357456
+rect 357488 2128 357808 357456
+<< obsm4 >>
+rect 105675 2347 106109 126989
+<< labels >>
+rlabel metal3 s 0 314984 800 315104 6 SEL2
+port 1 nsew signal bidirectional
+rlabel metal3 s 0 224952 800 225072 6 analog_io1
+port 2 nsew signal input
+rlabel metal3 s 0 134920 800 135040 6 analog_io2
+port 3 nsew signal bidirectional
+rlabel metal3 s 0 44888 800 45008 6 analog_io3
+port 4 nsew signal input
+rlabel metal2 s 36082 0 36138 800 6 io_in[0]
+port 5 nsew signal input
+rlabel metal2 s 108026 0 108082 800 6 io_in[1]
+port 6 nsew signal input
+rlabel metal2 s 179970 0 180026 800 6 io_in[2]
+port 7 nsew signal input
+rlabel metal2 s 251914 0 251970 800 6 io_in[3]
+port 8 nsew signal input
+rlabel metal2 s 323858 0 323914 800 6 io_in[4]
+port 9 nsew signal input
+rlabel metal4 s 4208 2128 4528 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 34928 2128 35248 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 65648 2128 65968 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 96368 2128 96688 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 127088 2128 127408 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 157808 2128 158128 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 188528 2128 188848 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 219248 2128 219568 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 249968 2128 250288 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 280688 2128 281008 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 311408 2128 311728 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 342128 2128 342448 357456 6 vccd1
+port 10 nsew power bidirectional
+rlabel metal4 s 19568 2128 19888 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 50288 2128 50608 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 81008 2128 81328 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 111728 2128 112048 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 142448 2128 142768 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 173168 2128 173488 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 203888 2128 204208 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 234608 2128 234928 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 265328 2128 265648 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 296048 2128 296368 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 326768 2128 327088 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 357488 2128 357808 357456 6 vdda1
+port 11 nsew power bidirectional
+rlabel metal4 s 27248 2128 27568 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 57968 2128 58288 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 88688 2128 89008 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 119408 2128 119728 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 150128 2128 150448 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 180848 2128 181168 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 211568 2128 211888 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 242288 2128 242608 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 273008 2128 273328 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 303728 2128 304048 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 334448 2128 334768 357456 6 vssa1
+port 12 nsew ground bidirectional
+rlabel metal4 s 11888 2128 12208 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 42608 2128 42928 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 73328 2128 73648 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 104048 2128 104368 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 134768 2128 135088 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 165488 2128 165808 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 196208 2128 196528 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 226928 2128 227248 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 257648 2128 257968 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 288368 2128 288688 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 319088 2128 319408 357456 6 vssd1
+port 13 nsew ground bidirectional
+rlabel metal4 s 349808 2128 350128 357456 6 vssd1
+port 13 nsew ground bidirectional
+<< properties >>
+string FIXED_BBOX 0 0 360000 360000
+string LEFclass BLOCK
+string LEFview TRUE
+string GDS_END 31484230
+string GDS_FILE /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_15_01_40/results/signoff/user_proj_example.magic.gds
+string GDS_START 2232502
+<< end >>
+

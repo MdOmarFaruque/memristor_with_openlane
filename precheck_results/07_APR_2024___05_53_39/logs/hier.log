@@ -1,0 +1,9 @@
+BEGIN: Sun 07 Apr 2024 06:04:12 AM UTC
+Creating /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/07_APR_2024___05_53_39/tmp/verilog.cells from the following files...
+	/home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_proj_example.v
+	/home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_project_wrapper.v
+[INFO] Changing from /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+	to /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/07_APR_2024___05_53_39/tmp/layout.txt
+Hierarchy check for user_project_wrapper passed.
+END: Sun 07 Apr 2024 06:04:15 AM UTC
+Runtime: 0:00:03 (hh:mm:ss)

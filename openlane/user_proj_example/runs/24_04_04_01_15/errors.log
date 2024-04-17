@@ -1,0 +1,15 @@
+[ERROR]: There are LVS errors in the design: See '../home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_01_15/reports/signoff/41-user_proj_example.lvs.rpt' for a summary and '../home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_04_01_15/logs/signoff/41-lvs.lef.log' for details.
+[ERROR]: Step 41 (lvs) failed with error:
+-code 1 -level 0 -errorcode NONE -errorinfo {
+    while executing
+"throw_error"
+    (procedure "quit_on_lvs_error" line 13)
+    invoked from within
+"quit_on_lvs_error -rpt $count_lvs_rpt -log $log"
+    (procedure "run_lvs" line 76)
+    invoked from within
+"run_lvs"
+    (procedure "run_lvs_step" line 10)
+    invoked from within
+"run_lvs_step"} -errorline 1
+[ERROR]: Flow failed.

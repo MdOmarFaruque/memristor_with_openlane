@@ -1,0 +1,52 @@
+Fri Apr 12 04:01:54 UTC 2024 - Executing "openroad -exit -no_init -python /openlane/scripts/odbpy/lefutil.py get_metal_layers -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/layers.list /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.nom.lef -i /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef {/home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef} |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.nom.lef -i /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.nom.lef /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/macros/lef/core_flat.lef |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.min.lef -i /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__min.tlef {/home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef} |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.min.lef -i /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.min.lef /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/macros/lef/core_flat.lef |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.max.lef -i /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__max.tlef {/home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef} |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "/openlane/scripts/mergeLef.py -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.max.lef -i /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/merged.max.lef /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/macros/lef/core_flat.lef |& tee /dev/null"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "python3 /openlane/scripts/mergeLib.py --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/merged.lib --name sky130B_merged /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "python3 /openlane/scripts/libtrim.py --cell-file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/trimmed.lib.exclude.list --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/trimmed.lib /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/merged.lib"
+
+Fri Apr 12 04:01:55 UTC 2024 - Executing "python3 /openlane/scripts/libtrim.py --cell-file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts.lib.exclude.list --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts.lib /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib"
+
+Fri Apr 12 04:01:56 UTC 2024 - Executing "python3 /openlane/scripts/libtrim.py --cell-file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts-fastest.lib.exclude.list --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts-fastest.lib /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "python3 /openlane/scripts/libtrim.py --cell-file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts-slowest.lib.exclude.list --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/cts/cts-slowest.lib /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "python3 /openlane/scripts/new_tracks.py -i /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.tech/openlane/sky130_fd_sc_hd/tracks.info -o /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/routing/config.tracks"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "echo {OpenLane 30ee1388932eb55a89ad84ee43997bfe3a386421} > /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/OPENLANE_VERSION"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "bash -c {verilator  --lint-only  -Wall  --Wno-DECLFILENAME  --top-module user_proj_example  /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat.v -Wno-fatal --relative-includes |& tee /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/logs/synthesis/linter.log /dev/null}"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "sed -E {s/^([[:space:]]+)pg_pin(.*)/\1pin\2\n\1    direction : "inout";/g} /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib > /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/1-sky130_fd_sc_hd__tt_025C_1v80.no_pg.lib"
+
+Fri Apr 12 04:01:57 UTC 2024 - Executing "sed -E {s/^([[:space:]]+)pg_pin(.*)/\1pin\2\n\1    direction : "inout";/g} /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/trimmed.lib > /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/1-trimmed.no_pg.lib"
+
+Fri Apr 12 04:01:58 UTC 2024 - Executing "yosys -c /openlane/scripts/yosys/synth.tcl |& tee /dev/null /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/logs/synthesis/1-synthesis.log"
+
+Fri Apr 12 04:01:58 UTC 2024 - Executing "sed -i.bak -e {s/\(set ::env(CURRENT_NETLIST)\).*/\1 \/home\/engtech\/Desktop\/Openlane_v2\/memristor\/openlane\/user_proj_example\/runs\/24_04_11_23_01\/results\/synthesis\/user_proj_example.v/} /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/config.tcl"
+
+Fri Apr 12 04:01:58 UTC 2024 - Executing "sed -i.bak /defparam/d /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/results/synthesis/user_proj_example.v"
+
+Fri Apr 12 04:01:58 UTC 2024 - Executing "sta -exit -no_init /openlane/scripts/openroad/sta/multi_corner.tcl |& tee /dev/null /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/logs/synthesis/2-sta.log"
+
+Fri Apr 12 04:01:58 UTC 2024 - Executing "sed -E {s/^([[:space:]]+)pg_pin(.*)/\1pin\2\n\1    direction : "inout";/g} /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib > /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/2-sky130_fd_sc_hd__tt_025C_1v80.no_pg.lib"
+
+Fri Apr 12 04:01:59 UTC 2024 - Executing "sed -E {s/^([[:space:]]+)pg_pin(.*)/\1pin\2\n\1    direction : "inout";/g} /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/trimmed.lib > /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/2-trimmed.no_pg.lib"
+
+Fri Apr 12 04:01:59 UTC 2024 - Executing "yosys -c /openlane/scripts/yosys/synth.tcl |& tee /dev/null /dev/null"
+
+Fri Apr 12 04:01:59 UTC 2024 - Executing "sed -i.bak /defparam/d /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/tmp/synthesis/pg_define.v"
+
+Fri Apr 12 04:01:59 UTC 2024 - Executing "openroad -exit /openlane/scripts/openroad/floorplan.tcl |& tee /dev/null /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_11_23_01/logs/floorplan/3-initial_fp.log"
+

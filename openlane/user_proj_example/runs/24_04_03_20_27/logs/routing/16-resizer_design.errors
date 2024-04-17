@@ -1,0 +1,2 @@
+[ERROR GRT-0039] Found pin SEL2 outside die area in instance core_flat.
+Error: resizer_routing_design.tcl, 46 GRT-0039

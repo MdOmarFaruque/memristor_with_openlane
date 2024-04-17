@@ -1,0 +1,22 @@
+OpenROAD 41a51eaf4ca2171c92ff38afb91eb37bbd3f36da 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Placing the following macros:
+{'inverter': ['60000', '30000', 'N']}
+Design name: user_proj_example
+Traceback (most recent call last):
+  File "/openlane/scripts/odbpy/manual_macro_place.py", line 108, in <module>
+    manual_macro_place()
+  File "/usr/local/lib/python3.6/site-packages/click/core.py", line 1128, in __call__
+    return self.main(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/click/core.py", line 1053, in main
+    rv = self.invoke(ctx)
+  File "/usr/local/lib/python3.6/site-packages/click/core.py", line 1395, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/usr/local/lib/python3.6/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/openlane/scripts/odbpy/reader.py", line 76, in wrapper
+    function(**kwargs)
+  File "/openlane/scripts/odbpy/manual_macro_place.py", line 102, in manual_macro_place
+    assert not macros, ("Macros not found:", macros)
+AssertionError: ('Macros not found:', {'inverter': ['60000', '30000', 'N']})
