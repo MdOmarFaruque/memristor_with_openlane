@@ -1,7 +1,0 @@
-mprj/io_in[0]
-mprj/io_in[1]
-mprj/io_in[2]
-mprj/io_in[3]
-mprj/analog_io1
-mprj/io_in[4]
-mprj/analog_io3

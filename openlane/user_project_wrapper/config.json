@@ -26,6 +26,7 @@
         "dir::../../spef/multicorner/user_proj_example.max.spef"
     ],
     
+    "RSZ_DONT_TOUCH_LIST":["vdda1","vssa1","analog_io[14]","analog_io[15]","analog_io[16]"],
      "FP_PDN_SKIPTRIM":true,
     
     

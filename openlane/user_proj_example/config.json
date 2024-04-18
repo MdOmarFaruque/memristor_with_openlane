@@ -50,10 +50,10 @@
         "vssa1"
     ],
     "SYNTH_USE_PG_PINS_DEFINES": "USE_POWER_PINS",
-    "FP_PDN_SKIPTRIM": true,
+    "FP_PDN_SKIPTRIM":true,
     "RUN_IRDROP_REPORT":false,
     "LVS_CONNECT_BY_LABEL":true,
-    "RSZ_DONT_TOUCH_LIST":["vdda1","vssa1","AIN1","AIN2","AIN3"],
+    "RSZ_DONT_TOUCH_LIST":["vdda1","vssa1","analog_io1","analog_io2","analog_io13"],
     
 
 

@@ -1,6 +1,0 @@
-<< properties >>
-string FIXED_BBOX 0 0 584000 704000
-string GDS_END 18921990
-string GDS_FILE /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_04_12_50/results/signoff/user_project_wrapper.magic.gds
-string GDS_START 17885844
-<< end >>

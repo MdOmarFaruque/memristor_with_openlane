@@ -1,3 +1,0 @@
-Error while reading cell "core_flat" (byte position 1998158): Unknown layer/datatype in boundary, layer=201 type=20
-No errors found.
-[INFO]: Saving mag view with DRC errors (/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_04_11_29/results/signoff/user_project_wrapper.drc.mag)
