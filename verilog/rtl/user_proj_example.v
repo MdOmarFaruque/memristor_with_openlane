@@ -9,7 +9,7 @@ module user_proj_example (
     inout vssd1,	// User area 1 digital ground  
 `endif  
     input  [4:0] io_in,
-    inout  SEL2,
+    input  SEL2,
     input   analog_io1,
     inout   analog_io2,
     input analog_io3

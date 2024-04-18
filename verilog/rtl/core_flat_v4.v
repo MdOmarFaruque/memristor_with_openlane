@@ -15,10 +15,10 @@ input SEL1,
 input DIGITALIN1,
 input SEL3,
 input DIGITALIN3,
-inout SEL2,
+input SEL2,
 input DIGITALIN2,
 input AIN1,
-input AIN2,
+inout AIN2,
 input AIN3
 );
 endmodule
