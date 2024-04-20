@@ -1,0 +1,19 @@
+Design Name: user_proj_example
+Run Directory: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_20_18
+----------------------------------------
+
+Magic DRC Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_20_18/reports/signoff/drc.rpt
+Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 5 Times.
+Violation Message "Spacing of metal3 features attached to and within 0.40um of large metal3 < 0.4um (met3.3c) "found 3 Times.
+Total Magic DRC violations is 8
+----------------------------------------
+
+LVS Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_20_18/logs/signoff/41-user_proj_example.lef.lvs.log
+Number of nets: 20                         |Number of nets: 20                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+No antenna report found.

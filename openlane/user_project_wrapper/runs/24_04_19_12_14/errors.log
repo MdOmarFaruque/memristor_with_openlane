@@ -1,0 +1,32 @@
+[ERROR]: during executing magic script /openlane/scripts/magic/wrapper.tcl
+[ERROR]: Log: ../home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_19_12_14/logs/signoff/30-drc.log
+[ERROR]: Last 10 lines:
+    140000 uses
+    145000 uses
+Reading "user_project_wrapper".
+CIF file read warning: CIF style sky130(): units rescaled by factor of 5 / 1
+[INFO]: Loading user_project_wrapper
+
+DRC style is now "drc(full)"
+Loading DRC CIF style.
+child killed: interrupt
+child killed: interrupt
+
+[ERROR]: Creating issue reproducible...
+[ERROR]: Step 30 (drc) failed with error:
+-code 1 -level 0 -errorcode NONE -errorinfo {
+    while executing
+"throw_error"
+    (procedure "run_tcl_script" line 219)
+    invoked from within
+"run_tcl_script -tool magic -no_consume $::env(SCRIPTS_DIR)/magic/wrapper.tcl -indexed_log $arg_values(-indexed_log)"
+    (procedure "run_magic_script" line 12)
+    invoked from within
+"run_magic_script $::env(SCRIPTS_DIR)/magic/drc.tcl -indexed_log $log"
+    (procedure "run_magic_drc" line 11)
+    invoked from within
+"run_magic_drc"
+    (procedure "run_drc_step" line 9)
+    invoked from within
+"run_drc_step"} -errorline 1
+[ERROR]: Flow failed.

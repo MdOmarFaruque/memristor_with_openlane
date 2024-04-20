@@ -53,8 +53,7 @@
     "FP_PDN_SKIPTRIM":true,
     "RUN_IRDROP_REPORT":false,
     "LVS_CONNECT_BY_LABEL":true,
-    "RSZ_DONT_TOUCH_LIST":["vdda1","vssa1","analog_io1","analog_io2","analog_io13"],
-    
+    "RSZ_DONT_TOUCH":["vdda1","vssa1","analog_io1","analog_io2","analog_io3"],
 
 
     "IO_SYNC": 0,

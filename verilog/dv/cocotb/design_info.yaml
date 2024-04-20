@@ -1,8 +1,8 @@
-CARAVEL_ROOT: /home/engtech/Desktop/Openlane_v2/memristor_v2/caravel
-MCW_ROOT: /home/engtech/Desktop/Openlane_v2/memristor_v2/mgmt_core_wrapper
+CARAVEL_ROOT: /home/engtech/Desktop/Openlane_v2/memristor/caravel
+MCW_ROOT: /home/engtech/Desktop/Openlane_v2/memristor/mgmt_core_wrapper
 PDK: sky130B
-PDK_ROOT: /home/engtech/Desktop/Openlane_v2/memristor_v2/dependencies/pdks
-USER_PROJECT_ROOT: /home/engtech/Desktop/Openlane_v2/memristor_v2
+PDK_ROOT: /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks
+USER_PROJECT_ROOT: /home/engtech/Desktop/Openlane_v2/memristor
 caravan: false
 clk: 25
 emailto:

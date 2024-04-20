@@ -1,0 +1,29 @@
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v:66:28: Missing newline at end of file (POSIX 3.206).
+                                                                                                                             : ... Suggest add newline.
+   66 | `endif // __GLOBAL_DEFINE_H
+      |                            ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.009
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:38:22: Missing newline at end of file (POSIX 3.206).
+                                                                                                                                       : ... Suggest add newline.
+   38 | `default_nettype wire
+      |                      ^
+%Warning-PINMISSING: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:24:15: Cell has missing pin: 'DIGITALIN3'
+   24 |  core_flat_v4 core_flat_v4 (
+      |               ^~~~~~~~~~~~
+%Warning-PINMISSING: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:24:15: Cell has missing pin: 'DIGITALIN2'
+   24 |  core_flat_v4 core_flat_v4 (
+      |               ^~~~~~~~~~~~
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:34:10: Duplicate pin connection: 'DIGITALIN1'
+   34 |         .DIGITALIN1(DIGITALIN3),
+      |          ^~~~~~~~~~
+        /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:32:10: ... Location of original pin connection
+   32 |         .DIGITALIN1(DIGITALIN1),
+      |          ^~~~~~~~~~
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:36:10: Duplicate pin connection: 'DIGITALIN1'
+   36 |         .DIGITALIN1(DIGITALIN2),
+      |          ^~~~~~~~~~
+        /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:32:10: ... Location of original pin connection
+   32 |         .DIGITALIN1(DIGITALIN1),
+      |          ^~~~~~~~~~
+%Error: Exiting due to 2 error(s)

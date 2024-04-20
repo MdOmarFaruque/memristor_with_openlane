@@ -1,0 +1,90 @@
+(DELAYFILE
+ (SDFVERSION "3.0")
+ (DESIGN "user_proj_example")
+ (DATE "Fri Apr 19 21:36:01 2024")
+ (VENDOR "Parallax")
+ (PROGRAM "STA")
+ (VERSION "2.4.0")
+ (DIVIDER .)
+ (VOLTAGE 1.800::1.800)
+ (PROCESS "1.000::1.000")
+ (TEMPERATURE 25.000::25.000)
+ (TIMESCALE 1ns)
+ (CELL
+  (CELLTYPE "user_proj_example")
+  (INSTANCE)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT SEL2 input1.A (0.000:0.000:0.000) (0.000:0.000:0.000))
+    (INTERCONNECT analog_io1 core_flat_v4.AIN1 (0.000:0.000:0.000))
+    (INTERCONNECT analog_io2 core_flat_v4.AIN2 (0.000:0.000:0.000))
+    (INTERCONNECT analog_io3 core_flat_v4.AIN3 (0.000:0.000:0.000))
+    (INTERCONNECT io_in[0] input2.A (0.000:0.000:0.000) (0.000:0.000:0.000))
+    (INTERCONNECT io_in[1] input3.A (0.000:0.000:0.000) (0.000:0.000:0.000))
+    (INTERCONNECT io_in[2] input4.A (0.000:0.000:0.000) (0.000:0.000:0.000))
+    (INTERCONNECT io_in[3] input5.A (0.000:0.000:0.000))
+    (INTERCONNECT io_in[4] input6.A (0.000:0.000:0.000) (0.000:0.000:0.000))
+    (INTERCONNECT input1.X core_flat_v4.SEL2 (0.000:0.000:0.000))
+    (INTERCONNECT input2.X core_flat_v4.SEL1 (0.000:0.000:0.000))
+    (INTERCONNECT input3.X core_flat_v4.DIGITALIN1 (0.000:0.000:0.000))
+    (INTERCONNECT input4.X core_flat_v4.SEL3 (0.002:0.002:0.002) (0.002:0.002:0.002))
+    (INTERCONNECT input5.X core_flat_v4.DIGITALIN3 (0.010:0.010:0.010) (0.010:0.010:0.010))
+    (INTERCONNECT input6.X core_flat_v4.DIGITALIN2 (0.000:0.000:0.000))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__buf_6")
+  (INSTANCE input1)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.056:0.056:0.056) (0.082:0.082:0.082))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_4")
+  (INSTANCE input2)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.104:0.152:0.199) (0.118:0.185:0.252))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__buf_4")
+  (INSTANCE input3)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.085:0.124:0.164) (0.118:0.186:0.254))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_2")
+  (INSTANCE input4)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.153:0.195:0.236) (0.148:0.209:0.269))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_4")
+  (INSTANCE input5)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.202:0.253:0.303) (0.195:0.264:0.334))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__buf_12")
+  (INSTANCE input6)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.079:0.109:0.139) (0.112:0.179:0.245))
+   )
+  )
+ )
+)

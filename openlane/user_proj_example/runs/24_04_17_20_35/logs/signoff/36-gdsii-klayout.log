@@ -1,0 +1,3 @@
+Warning: No mapping for layer 'via2', purpose 'LEFPIN' - layer is ignored
+Warning: No mapping for layer 'via2', purpose 'LEFLABEL' - layer is ignored
+Not a floating-point value: vssa1 (line=155530, cell=, file=user_proj_example.def) in Layout.read

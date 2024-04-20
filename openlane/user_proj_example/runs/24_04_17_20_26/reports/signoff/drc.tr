@@ -1,0 +1,30 @@
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.190, 707.380 ) - ( 507.220, 707.400 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.220, 707.380 ) - ( 507.540, 707.400 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.540, 707.390 ) - ( 508.235, 707.400 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.540, 707.380 ) - ( 507.570, 707.390 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.905, 707.375 ) - ( 508.235, 707.390 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( Spacing, of ) - ( metal3, features ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.905, 707.375 ) - ( 507.970, 707.380 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.505, 707.380 ) - ( 507.570, 707.390 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( 507.905, 707.380 ) - ( 507.970, 707.390 ) on Layer met3
+  violation type: Metal3_gt_3um_spacing_to_unrelated_m3_lt_0dot4um_met3dot3d
+    srcs: N/A N/A
+    bbox = ( [INFO]:, Should ) - ( be, divided ) on Layer met3

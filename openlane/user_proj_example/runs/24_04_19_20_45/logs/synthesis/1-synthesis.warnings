@@ -1,0 +1,10 @@
+Warning: Wire user_proj_example.\io_oeb [8] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [7] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [6] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [5] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [4] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [3] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [2] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [1] is used but has no driver.
+Warning: Wire user_proj_example.\io_oeb [0] is used but has no driver.
+Warnings: 9 unique messages, 9 total

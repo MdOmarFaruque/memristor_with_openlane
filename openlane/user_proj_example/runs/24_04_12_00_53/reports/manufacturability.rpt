@@ -1,0 +1,13 @@
+Design Name: user_proj_example
+Run Directory: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_12_00_53
+Source not found.
+----------------------------------------
+
+LVS Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_12_00_53/logs/signoff/41-user_proj_example.lef.lvs.log
+Number of nets: 21                         |Number of nets: 21                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+No antenna report found.

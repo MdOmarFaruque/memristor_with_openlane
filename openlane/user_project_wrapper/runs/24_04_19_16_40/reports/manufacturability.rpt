@@ -1,0 +1,19 @@
+Design Name: user_project_wrapper
+Run Directory: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_19_16_40
+----------------------------------------
+
+Magic DRC Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_19_16_40/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_19_16_40/logs/signoff/29-user_project_wrapper.lef.lvs.log
+Number of nets: 13                         |Number of nets: 13                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_19_16_40/logs/signoff/31-arc.log
+Pin violations: 6
+Net violations: 6

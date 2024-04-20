@@ -1,0 +1,20 @@
+[ERROR]: during executing: "python3 /openlane/scripts/klayout/stream_out.py --output /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_23_21/results/signoff/user_proj_example.klayout.gds --lyt /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.tech/klayout/tech/sky130B.lyt --lym /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.tech/klayout/tech/sky130B.map --lyp /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.tech/klayout/tech/sky130B.lyp --top user_proj_example --with-gds-file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds --with-gds-file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/macros/gds/core_flat_v4.gds --input-lef /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_23_21/tmp/merged.nom.lef /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_23_21/results/routing/user_proj_example.def |& tee /dev/null /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_17_23_21/logs/signoff/36-gdsii-klayout.log"
+[ERROR]: Exit code: 1
+[ERROR]: Last 10 lines:
+Not a floating-point value: vssa1 (line=155525, cell=, file=user_proj_example.def) in Layout.read
+child process exited abnormally
+
+[ERROR]: Step 36 (gds_klayout) failed with error:
+-code 1 -level 0 -errorcode NONE -errorinfo {
+    while executing
+"throw_error"
+    (procedure "try_exec" line 17)
+    invoked from within
+"try_exec python3 $::env(SCRIPTS_DIR)/klayout/stream_out.py --output $klayout_out --lyt $::env(KLAYOUT_TECH) --lym $::env(KLAYOUT_DEF_LAYER_MAP) --lyp ..."
+    (procedure "run_klayout" line 22)
+    invoked from within
+"run_klayout"
+    (procedure "run_klayout_step" line 3)
+    invoked from within
+"run_klayout_step"} -errorline 1
+[ERROR]: Flow failed.

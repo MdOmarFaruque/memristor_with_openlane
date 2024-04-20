@@ -1,0 +1,38 @@
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v:66:28: Missing newline at end of file (POSIX 3.206).
+                                                                                                                             : ... Suggest add newline.
+   66 | `endif // __GLOBAL_DEFINE_H
+      |                            ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.009
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:14:7: Signal is not used: 'SEL1'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   14 | input SEL1,
+      |       ^~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:15:7: Signal is not used: 'DIGITALIN1'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   15 | input DIGITALIN1,
+      |       ^~~~~~~~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:16:7: Signal is not used: 'SEL3'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   16 | input SEL3,
+      |       ^~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:17:7: Signal is not used: 'DIGITALIN3'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   17 | input DIGITALIN3,
+      |       ^~~~~~~~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:18:7: Signal is not used: 'SEL2'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   18 | input SEL2,
+      |       ^~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:19:7: Signal is not used: 'DIGITALIN2'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   19 | input DIGITALIN2,
+      |       ^~~~~~~~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:20:7: Signal is not used: 'AIN1'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   20 | input AIN1,
+      |       ^~~~
+%Warning-UNUSEDSIGNAL: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/core_flat_v4.v:22:7: Signal is not used: 'AIN3'
+                                                                                                                                   : ... In instance user_proj_example.core_flat_v4
+   22 | input AIN3
+      |       ^~~~

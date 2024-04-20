@@ -8,15 +8,17 @@ module user_proj_example (
     inout vccd1,	// User area 1 1.8V supply  
     inout vssd1,	// User area 1 digital ground  
 `endif  
+    output wire [8:0] io_oeb,
     input  [4:0] io_in,
     input  SEL2,
-    input   analog_io1,
+    inout   analog_io1,
     inout   analog_io2,
-    input analog_io3
+    inout analog_io3
     
     
 );
 
+assign io_oeb=9'b111111111;
 core_flat_v4 core_flat_v4(
 `ifdef USE_POWER_PINS
     .vdda1(vdda1),

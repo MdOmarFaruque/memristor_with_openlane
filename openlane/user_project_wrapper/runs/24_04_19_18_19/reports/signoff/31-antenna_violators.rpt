@@ -1,0 +1,6 @@
+Partial/Required: 51.02, Required:    400.0, Partial: 20407.96, Net: io_in[8], Pin: mprj/io_in[0], Layer: met3
+Partial/Required: 40.52, Required:    400.0, Partial:  16206.2, Net: io_in[10], Pin: mprj/io_in[2], Layer: met3
+Partial/Required: 39.39, Required:    400.0, Partial: 15755.18, Net: io_in[9], Pin: mprj/io_in[1], Layer: met3
+Partial/Required: 35.26, Required:    400.0, Partial: 14105.31, Net: io_in[11], Pin: mprj/io_in[3], Layer: met3
+Partial/Required: 14.94, Required:    400.0, Partial:  5976.05, Net: io_in[13], Pin: mprj/SEL2, Layer: met4
+Partial/Required:  6.46, Required:    400.0, Partial:  2582.77, Net: io_in[12], Pin: mprj/io_in[4], Layer: met3

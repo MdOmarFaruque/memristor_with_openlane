@@ -1,0 +1,217 @@
+OpenROAD 41a51eaf4ca2171c92ff38afb91eb37bbd3f36da 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO]: Reading ODB at '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_17_23_31/results/routing/user_project_wrapper.odb'…
+define_corners Typical
+read_liberty -corner Typical /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_liberty -corner Typical /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/../../lib/user_proj_example.lib
+Using 1e-12 for capacitance...
+Using 1e+03 for resistance...
+Using 1e-09 for time...
+Using 1e+00 for voltage...
+Using 1e-03 for current...
+Using 1e-09 for power...
+Using 1e-06 for distance...
+Reading design constraints file at '/home/engtech/Desktop/Openlane_v2/memristor/openlane/user_project_wrapper/runs/24_04_17_23_31/tmp/floorplan/3-initial_fp.sdc'…
+Net: analog_io[14]
+  Pin: mprj/analog_io1 (user_proj_example)
+    Layer: met3
+      Partial area ratio: 1087.72
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 5805.06
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1087.72
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 5805.06
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+Net: analog_io[16]
+  Pin: mprj/analog_io3 (user_proj_example)
+    Layer: met3
+      Partial area ratio:  274.00
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 1467.15
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  274.00
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 1467.15
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+Net: io_in[10]
+  Pin: mprj/io_in[2] (user_proj_example)
+    Layer: met3
+      Partial area ratio: 3037.82
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 16206.20
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 3045.76
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 16246.85
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met2
+      Partial area ratio:    7.95
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:   40.65
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    7.95
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:   40.65
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M2M3_PR
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.19
+      Required ratio:    0.00 (Cumulative area) 
+
+
+Net: io_in[11]
+  Pin: mprj/io_in[3] (user_proj_example)
+    Layer: met3
+      Partial area ratio: 2643.90
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 14105.31
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 2652.29
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 14148.20
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met2
+      Partial area ratio:    8.39
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:   42.89
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    8.39
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:   42.89
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M2M3_PR
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.19
+      Required ratio:    0.00 (Cumulative area) 
+
+
+Net: io_in[12]
+  Pin: mprj/io_in[4] (user_proj_example)
+    Layer: met3
+      Partial area ratio:  484.09
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 2582.77
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  485.99
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 2592.48
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met2
+      Partial area ratio:    1.90
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:    9.71
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    1.90
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:    9.71
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M2M3_PR
+      Partial area ratio:    0.04
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.04
+      Required ratio:    0.00 (Cumulative area) 
+
+
+Net: io_in[13]
+  Pin: mprj/SEL2 (user_proj_example)
+    Layer: met4
+      Partial area ratio: 1120.33
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 5976.05
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1129.99
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 6028.54
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met3
+      Partial area ratio:    9.66
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:   52.49
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    9.66
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:   52.49
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M3M4_PR
+      Partial area ratio:    0.08
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.08
+      Required ratio:    0.00 (Cumulative area) 
+
+
+Net: io_in[8]
+  Pin: mprj/io_in[0] (user_proj_example)
+    Layer: met3
+      Partial area ratio: 3825.65
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 20407.96
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 3832.70
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 20444.15
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met2
+      Partial area ratio:    7.05
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:   36.18
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    7.05
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:   36.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M2M3_PR
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.19
+      Required ratio:    0.00 (Cumulative area) 
+
+
+Net: io_in[9]
+  Pin: mprj/io_in[1] (user_proj_example)
+    Layer: met3
+      Partial area ratio: 2953.37
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio: 15755.18
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 2959.82
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio: 15788.25
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: met2
+      Partial area ratio:    6.45
+      Required ratio:    0.00 (Gate area) 
+      Partial area ratio:   33.06
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    6.45
+      Required ratio:    0.00 (Cumulative area) 
+      Cumulative area ratio:   33.06
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Via: M2M3_PR
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.16
+      Required ratio:    0.00 (Cumulative area) 
+
+
+[INFO ANT-0002] Found 8 net violations.
+[INFO ANT-0001] Found 8 pin violations.

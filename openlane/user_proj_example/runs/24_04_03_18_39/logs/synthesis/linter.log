@@ -1,0 +1,36 @@
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v:66:28: Missing newline at end of file (POSIX 3.206).
+                                                                                                                             : ... Suggest add newline.
+   66 | `endif // __GLOBAL_DEFINE_H
+      |                            ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.009
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-PINMISSING: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:20:11: Cell has missing pin: 'AIN1'
+   20 | core_flat core_flat(
+      |           ^~~~~~~~~
+%Warning-PINMISSING: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:20:11: Cell has missing pin: 'AIN2'
+   20 | core_flat core_flat(
+      |           ^~~~~~~~~
+%Warning-PINMISSING: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:20:11: Cell has missing pin: 'AIN3'
+   20 | core_flat core_flat(
+      |           ^~~~~~~~~
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:33:17: Signal definition not found, and implicit disabled with `default_nettype: 'AIN1'
+   33 |     .analog_io1(AIN1),
+      |                 ^~~~
+%Error-PINNOTFOUND: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:33:6: Pin not found: 'analog_io1'
+   33 |     .analog_io1(AIN1),
+      |      ^~~~~~~~~~
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:34:17: Signal definition not found, and implicit disabled with `default_nettype: 'AIN2'
+                                                                                                                          : ... Suggested alternative: 'AIN1'
+   34 |     .analog_io2(AIN2),
+      |                 ^~~~
+%Error-PINNOTFOUND: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:34:6: Pin not found: 'analog_io2'
+   34 |     .analog_io2(AIN2),
+      |      ^~~~~~~~~~
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:35:17: Signal definition not found, and implicit disabled with `default_nettype: 'AIN3'
+                                                                                                                          : ... Suggested alternative: 'AIN1'
+   35 |     .analog_io3(AIN3)
+      |                 ^~~~
+%Error-PINNOTFOUND: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:35:6: Pin not found: 'analog_io3'
+   35 |     .analog_io3(AIN3)
+      |      ^~~~~~~~~~
+%Error: Exiting due to 6 error(s)

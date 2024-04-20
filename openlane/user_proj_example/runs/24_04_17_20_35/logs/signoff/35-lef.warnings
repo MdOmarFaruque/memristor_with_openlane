@@ -1,0 +1,16 @@
+Warning: cell <sky130_fd_sc_hd__diode_2> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__diode_2.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__decap_3> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__decap_3.mag is not writeable
+Warning: cell <sky130_ef_sc_hd__decap_12> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_ef_sc_hd__decap_12.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__decap_8> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__decap_8.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__decap_4> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__decap_4.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__fill_1> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__fill_1.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__fill_2> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__fill_2.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__decap_6> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__decap_6.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__tapvpwrvgnd_1> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__tapvpwrvgnd_1.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__buf_6> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__buf_6.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__buf_4> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__buf_4.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__clkbuf_4> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__clkbuf_4.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__clkbuf_2> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__clkbuf_2.mag is not writeable
+Warning: cell <sky130_fd_sc_hd__buf_12> from file /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__buf_12.mag is not writeable
+DEF read, Line 164960 (Warning): Number of nets read (19) does not match the number declared (4).
+DEF Read: encountered 1 warning total.

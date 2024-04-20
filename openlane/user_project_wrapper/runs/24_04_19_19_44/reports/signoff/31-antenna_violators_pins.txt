@@ -1,0 +1,7 @@
+mprj/io_in[0]
+mprj/SEL2
+mprj/io_in[4]
+mprj/io_in[1]
+mprj/io_in[2]
+mprj/io_in[3]
+mprj/io_in[4]

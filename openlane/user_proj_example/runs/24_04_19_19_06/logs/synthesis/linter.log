@@ -1,0 +1,14 @@
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v:66:28: Missing newline at end of file (POSIX 3.206).
+                                                                                                                             : ... Suggest add newline.
+   66 | `endif // __GLOBAL_DEFINE_H
+      |                            ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.009
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:40:22: Missing newline at end of file (POSIX 3.206).
+                                                                                                                                       : ... Suggest add newline.
+   40 | `default_nettype wire
+      |                      ^
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:12:5: syntax error, unexpected input, expecting ')'
+   12 |     input  [4:0] io_in,
+      |     ^~~~~
+%Error: Exiting due to 1 error(s)

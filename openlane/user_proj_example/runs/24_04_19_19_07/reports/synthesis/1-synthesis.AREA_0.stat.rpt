@@ -1,0 +1,20 @@
+
+63. Printing statistics.
+
+=== user_proj_example ===
+
+   Number of wires:                  6
+   Number of wire bits:             18
+   Number of public wires:           6
+   Number of public wire bits:      18
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 10
+     core_flat_v4                    1
+     sky130_fd_sc_hd__conb_1         9
+
+   Area for cell type \core_flat_v4 is unknown!
+
+   Chip area for module '\user_proj_example': 33.782400
+

@@ -1,0 +1,127 @@
+BEGIN: Sat 20 Apr 2024 02:06:57 AM UTC
+Netgen 1.5.254 compiled on Tue Apr 16 18:21:46 UTC 2024
+Warning: netgen command 'format' use fully-qualified name '::netgen::format'
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Reading layout /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/20_APR_2024___01_57_03/tmp/ext/user_project_wrapper.gds.spice...
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__reram_reram_cell
+Creating placeholder cell definition.
+Reading source /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice...
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_01v8
+Creating placeholder cell definition.
+Reading source /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice...
+Call to undefined subcircuit sky130_fd_sc_hd__nand2_2
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_sc_hd__nor2_2
+Creating placeholder cell definition.
+Reading source /home/engtech/Desktop/Openlane_v2/memristor/xschem/simulation/core_flat_v4.spice...
+Call to undefined subcircuit CONTROLLER
+Creating placeholder cell definition.
+Call to undefined subcircuit 1T1R_2x2
+Creating placeholder cell definition.
+Call to undefined subcircuit DEMUX
+Creating placeholder cell definition.
+Call to undefined subcircuit switch
+Creating placeholder cell definition.
+Call to undefined subcircuit level_up_shifter_2x
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__reram_reram_cell
+Creating placeholder cell definition.
+Call to undefined subcircuit and
+Creating placeholder cell definition.
+Call to undefined subcircuit NOT
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8
+Creating placeholder cell definition.
+Ignoring line starting with token: N1
+line number 107 = 'N1 TE BE nFilament sky130_fd_pr_reram__reram_model'
+Ignoring line starting with token: .ic
+line number 108 = '.ic v(nFilament)={Tfilament_0*1.0e9}'
+File /home/engtech/Desktop/Openlane_v2/memristor/xschem/simulation/core_flat_v4.spice read with 2 warnings.
+Reading source /home/engtech/Desktop/Openlane_v2/memristor/lvs/user_project_wrapper/defines.v...
+Warning:  A case-insensitive file has been read and so the	verilog file must be treated case-insensitive to match.
+Reading source /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v...
+Warning:  A case-insensitive file has been read and so the	verilog file must be treated case-insensitive to match.
+Expected to find instance pin block but got "*)"
+Expected to find end of instance but got "module"
+line number 3 = 'module core_flat_v4('
+Warning:  Cell (* has no pins
+Creating placeholder cell definition for module (*.
+Note:  Implicit pin (no pins) in instance blackbox of (* in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "inout"
+Expected to find end of instance but got "vdda1"
+line number 6 = '        inout vdda1,    // User area 1 1.8V power'
+Warning:  Cell core_flat_v4 has no pins
+Note:  Implicit pin DigitalIN1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin AIN1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin SEL1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin DigitalIN2 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin AIN2 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin SEL2 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin DigitalIN3 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin AIN3 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin SEL3 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin VSSD1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin VCCD1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin VDDA1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Note:  Implicit pin VSSA1 in instance ( of core_flat_v4 in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "vssa1"
+Expected to find instance pin block but got "inout"
+Expected to find end of instance but got "vccd1"
+line number 8 = '        inout vccd1,'
+Warning:  Cell , has no pins
+Creating placeholder cell definition for module ,.
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "vssd1"
+Expected to find instance pin block but got "input"
+Expected to find end of instance but got "SEL1"
+line number 13 = 'input SEL1,'
+Warning:  Cell , has no pins
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "DIGITALIN1"
+Expected to find instance pin block but got "input"
+Expected to find end of instance but got "SEL3"
+line number 15 = 'input SEL3,'
+Warning:  Cell , has no pins
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "DIGITALIN3"
+Expected to find instance pin block but got "input"
+Expected to find end of instance but got "SEL2"
+line number 17 = 'input SEL2,'
+Warning:  Cell , has no pins
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "DIGITALIN2"
+Expected to find instance pin block but got "inout"
+Expected to find end of instance but got "AIN1"
+line number 19 = 'inout AIN1,'
+Warning:  Cell , has no pins
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "AIN2"
+Expected to find instance pin block but got "inout"
+Expected to find end of instance but got "AIN3"
+line number 21 = 'inout AIN3'
+Warning:  Cell , has no pins
+Note:  Implicit pin (no pins) in instance , of , in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+Expected to find instance pin block but got "endmodule"
+Expected to find end of instance but got "`default_nettype"
+line number 24 = '`default_nettype wire'
+Warning:  Cell ) has no pins
+Creating placeholder cell definition for module ).
+Note:  Implicit pin (no pins) in instance ; of ) in cell /home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/core_flat_v4.v
+END: Sat 20 Apr 2024 02:06:59 AM UTC
+Runtime: 0:00:02 (hh:mm:ss)

@@ -1,0 +1,59 @@
+[WARNING ODB-0220] WARNING (LEFPARS-2036): SOURCE statement is obsolete in version 5.6 and later.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later. See file /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/runs/24_04_19_20_45/tmp/merged.nom.lef at line 68353.
+[WARNING ORD-1011] LEF master core_flat_v4 has no liberty cell.
+[WARNING STA-0357] virtual clock clk can not be propagated.
+[WARNING STA-0559] transition time can not be specified for virtual clocks.
+[WARNING STA-0337] port 'wb_rst_i' not found.
+[WARNING STA-0337] port 'wbs_ack_o' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port 'wbs_ack_o' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0370] no valid objects specified for -through
+[WARNING STA-0337] port '__VIRTUAL_CLK__' not found.
+[WARNING STA-0337] port 'la_data_in[*]' not found.
+[WARNING STA-0337] port 'la_oenb[*]' not found.
+[WARNING STA-0337] port 'wbs_sel_i[*]' not found.
+[WARNING STA-0337] port 'wbs_we_i' not found.
+[WARNING STA-0337] port 'wbs_adr_i[*]' not found.
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0337] port 'wbs_dat_i[*]' not found.
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0337] port 'la_data_in[*]' not found.
+[WARNING STA-0337] port 'la_oenb[*]' not found.
+[WARNING STA-0337] port 'wbs_adr_i[*]' not found.
+[WARNING STA-0337] port 'wbs_dat_i[*]' not found.
+[WARNING STA-0337] port 'wbs_sel_i[*]' not found.
+[WARNING STA-0337] port 'wbs_we_i' not found.
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0337] port 'wbs_we_i' not found.
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0337] port 'wbs_sel_i[*]' not found.
+[WARNING STA-0337] port 'wbs_dat_i[*]' not found.
+[WARNING STA-0337] port 'la_data_in[*]' not found.
+[WARNING STA-0337] port 'wbs_adr_i[*]' not found.
+[WARNING STA-0337] port 'la_oenb[*]' not found.
+[WARNING STA-0337] port 'la_oenb[*]' not found.
+[WARNING STA-0337] port 'la_data_in[*]' not found.
+[WARNING STA-0337] port 'wbs_adr_i[*]' not found.
+[WARNING STA-0337] port 'wbs_dat_i[*]' not found.
+[WARNING STA-0337] port 'wbs_cyc_i' not found.
+[WARNING STA-0337] port 'wbs_sel_i[*]' not found.
+[WARNING STA-0337] port 'wbs_we_i' not found.
+[WARNING STA-0337] port 'wbs_stb_i' not found.
+[WARNING STA-0337] port 'user_irq[*]' not found.
+[WARNING STA-0337] port 'la_data_out[*]' not found.
+[WARNING STA-0337] port 'wbs_dat_o[*]' not found.
+[WARNING STA-0337] port 'wbs_ack_o' not found.
+[WARNING STA-0337] port 'la_data_out[*]' not found.
+[WARNING STA-0337] port 'user_irq[*]' not found.
+[WARNING STA-0337] port 'wbs_dat_o[*]' not found.
+[WARNING STA-0337] port 'wbs_ack_o' not found.

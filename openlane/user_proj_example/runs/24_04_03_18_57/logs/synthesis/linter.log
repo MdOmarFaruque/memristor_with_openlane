@@ -1,0 +1,10 @@
+%Warning-EOFNEWLINE: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/defines.v:66:28: Missing newline at end of file (POSIX 3.206).
+                                                                                                                             : ... Suggest add newline.
+   66 | `endif // __GLOBAL_DEFINE_H
+      |                            ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.009
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Error: /home/engtech/Desktop/Openlane_v2/memristor/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:34:5: syntax error, unexpected '.', expecting IDENTIFIER or randomize
+   34 |     .AIN2(analog_io2),
+      |     ^
+%Error: Exiting due to 1 error(s)

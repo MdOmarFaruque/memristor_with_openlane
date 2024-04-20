@@ -1,0 +1,108 @@
+(DELAYFILE
+ (SDFVERSION "3.0")
+ (DESIGN "user_project_wrapper")
+ (DATE "Sat Apr 20 00:15:27 2024")
+ (VENDOR "Parallax")
+ (PROGRAM "STA")
+ (VERSION "2.4.0")
+ (DIVIDER .)
+ (VOLTAGE 1.600::1.600)
+ (PROCESS "1.000::1.000")
+ (TEMPERATURE 100.000::100.000)
+ (TIMESCALE 1ns)
+ (CELL
+  (CELLTYPE "user_project_wrapper")
+  (INSTANCE)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT analog_io[16] mprj.ANTENNA_core_flat_v4_AIN3.DIODE (0.367:0.367:0.367) (0.367:0.367:0.367))
+    (INTERCONNECT analog_io[16] mprj.core_flat_v4.AIN3 (0.367:0.367:0.367) (0.367:0.367:0.367))
+    (INTERCONNECT analog_io[15] mprj.ANTENNA_core_flat_v4_AIN2.DIODE (0.269:0.269:0.269) (0.269:0.269:0.269))
+    (INTERCONNECT analog_io[15] mprj.core_flat_v4.AIN2 (0.269:0.269:0.269) (0.269:0.269:0.269))
+    (INTERCONNECT analog_io[14] mprj.ANTENNA_core_flat_v4_AIN1.DIODE (0.248:0.248:0.248) (0.248:0.248:0.248))
+    (INTERCONNECT analog_io[14] mprj.core_flat_v4.AIN1 (0.248:0.248:0.248) (0.248:0.248:0.248))
+    (INTERCONNECT io_in[13] mprj.input1.A (0.255:0.255:0.255) (0.254:0.254:0.254))
+    (INTERCONNECT io_in[12] mprj.input6.A (0.256:0.256:0.256) (0.255:0.255:0.255))
+    (INTERCONNECT io_in[11] mprj.input5.A (0.642:0.642:0.642) (0.641:0.641:0.641))
+    (INTERCONNECT io_in[10] mprj.input4.A (0.595:0.595:0.595) (0.594:0.594:0.594))
+    (INTERCONNECT io_in[9] mprj.input3.A (0.389:0.389:0.389) (0.388:0.388:0.388))
+    (INTERCONNECT io_in[8] mprj.input2.A (0.346:0.346:0.346) (0.346:0.346:0.346))
+    (INTERCONNECT mprj.input1.X mprj.ANTENNA_core_flat_v4_SEL2.DIODE (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT mprj.input1.X mprj.core_flat_v4.SEL2 (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT mprj.input2.X mprj.ANTENNA_core_flat_v4_SEL1.DIODE (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT mprj.input2.X mprj.core_flat_v4.SEL1 (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT mprj.input3.X mprj.ANTENNA_core_flat_v4_DIGITALIN1.DIODE (0.007:0.007:0.007) (0.007:0.007:0.007))
+    (INTERCONNECT mprj.input3.X mprj.core_flat_v4.DIGITALIN1 (0.007:0.007:0.007) (0.007:0.007:0.007))
+    (INTERCONNECT mprj.input4.X mprj.ANTENNA_core_flat_v4_SEL3.DIODE (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT mprj.input4.X mprj.core_flat_v4.SEL3 (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT mprj.input5.X mprj.ANTENNA_core_flat_v4_DIGITALIN3.DIODE (0.002:0.002:0.002) (0.002:0.002:0.002))
+    (INTERCONNECT mprj.input5.X mprj.core_flat_v4.DIGITALIN3 (0.002:0.002:0.002) (0.002:0.002:0.002))
+    (INTERCONNECT mprj.input6.X mprj.ANTENNA_core_flat_v4_DIGITALIN2.DIODE (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT mprj.input6.X mprj.core_flat_v4.DIGITALIN2 (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT mprj.user_proj_example_10.HI io_oeb[11] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_11.HI io_oeb[12] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_12.HI io_oeb[13] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_13.HI io_oeb[14] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_14.HI io_oeb[15] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_15.HI io_oeb[16] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_7.HI io_oeb[8] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_8.HI io_oeb[9] (0.000:0.000:0.000))
+    (INTERCONNECT mprj.user_proj_example_9.HI io_oeb[10] (0.000:0.000:0.000))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__buf_4")
+  (INSTANCE mprj.input1)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.304:0.320:0.336) (0.394:0.441:0.487))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__buf_2")
+  (INSTANCE mprj.input2)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.307:0.320:0.333) (0.410:0.446:0.483))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_4")
+  (INSTANCE mprj.input3)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.361:0.381:0.400) (0.454:0.492:0.531))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_2")
+  (INSTANCE mprj.input4)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.346:0.359:0.372) (0.464:0.493:0.523))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_2")
+  (INSTANCE mprj.input5)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.326:0.339:0.351) (0.457:0.486:0.515))
+   )
+  )
+ )
+ (CELL
+  (CELLTYPE "sky130_fd_sc_hd__clkbuf_8")
+  (INSTANCE mprj.input6)
+  (DELAY
+   (ABSOLUTE
+    (IOPATH A X (0.310:0.330:0.351) (0.385:0.431:0.477))
+   )
+  )
+ )
+)
