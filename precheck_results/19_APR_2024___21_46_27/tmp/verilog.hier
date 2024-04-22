@@ -1,0 +1,16 @@
+user_project_wrapper/user_proj_example 1
+user_proj_example/buf_12 1
+user_proj_example/buf_4 1
+user_proj_example/buf_6 1
+user_proj_example/clkbuf_2 1
+user_proj_example/clkbuf_4 2
+user_proj_example/core_flat_v4 1
+user_proj_example/decap_12 81817
+user_proj_example/decap_3 2067
+user_proj_example/decap_4 516
+user_proj_example/decap_6 19516
+user_proj_example/decap_8 387
+user_proj_example/diode_2 7
+user_proj_example/fill_1 20543
+user_proj_example/fill_2 4
+user_proj_example/tapvpwrvgnd_1 20577

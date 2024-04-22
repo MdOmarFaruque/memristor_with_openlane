@@ -1,0 +1,1000 @@
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8_hvt and Circuit 2 cell sky130_fd_pr__pfet_01v8_hvt are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8_hvt is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8_hvt is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_01v8_hvt                                            |Circuit 2: sky130_fd_pr__pfet_01v8_hvt                                            
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+3                                                                                 |3                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_01v8_hvt and sky130_fd_pr__pfet_01v8_hvt are equivalent.
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_01v8                                                |Circuit 2: sky130_fd_pr__nfet_01v8                                                
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+3                                                                                 |3                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_g5v0d10v5                                           |Circuit 2: sky130_fd_pr__pfet_g5v0d10v5                                           
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+3                                                                                 |3                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_g5v0d10v5                                           |Circuit 2: sky130_fd_pr__nfet_g5v0d10v5                                           
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+3                                                                                 |3                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8 and Circuit 2 cell sky130_fd_pr__pfet_01v8 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_01v8                                                |Circuit 2: sky130_fd_pr__pfet_01v8                                                
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+3                                                                                 |3                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__reram_reram_cell and Circuit 2 cell sky130_fd_pr__reram_reram_cell are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__reram_reram_cell is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__reram_reram_cell is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__reram_reram_cell                                         |Circuit 2: sky130_fd_pr__reram_reram_cell                                         
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+1                                                                                 |1                                                                                 
+2                                                                                 |2                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__reram_reram_cell and sky130_fd_pr__reram_reram_cell are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__decap_6                                               |Circuit 2: sky130_fd_sc_hd__decap_6                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (1)                                                   |sky130_fd_pr__pfet_01v8_hvt (1)                                                   
+sky130_fd_pr__nfet_01v8 (1)                                                       |sky130_fd_pr__nfet_01v8 (1)                                                       
+Number of devices: 2                                                              |Number of devices: 2                                                              
+Number of nets: 2                                                                 |Number of nets: 2                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__decap_6                                               |Circuit 2: sky130_fd_sc_hd__decap_6                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__decap_6 and sky130_fd_sc_hd__decap_6 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_ef_sc_hd__decap_12                                              |Circuit 2: sky130_ef_sc_hd__decap_12                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (1)                                                   |sky130_fd_pr__pfet_01v8_hvt (1)                                                   
+sky130_fd_pr__nfet_01v8 (1)                                                       |sky130_fd_pr__nfet_01v8 (1)                                                       
+Number of devices: 2                                                              |Number of devices: 2                                                              
+Number of nets: 2                                                                 |Number of nets: 2                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_ef_sc_hd__decap_12                                              |Circuit 2: sky130_ef_sc_hd__decap_12                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_ef_sc_hd__decap_12 and sky130_ef_sc_hd__decap_12 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__decap_8                                               |Circuit 2: sky130_fd_sc_hd__decap_8                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (1)                                                   |sky130_fd_pr__pfet_01v8_hvt (1)                                                   
+sky130_fd_pr__nfet_01v8 (1)                                                       |sky130_fd_pr__nfet_01v8 (1)                                                       
+Number of devices: 2                                                              |Number of devices: 2                                                              
+Number of nets: 2                                                                 |Number of nets: 2                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__decap_8                                               |Circuit 2: sky130_fd_sc_hd__decap_8                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__decap_8 and sky130_fd_sc_hd__decap_8 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__decap_3                                               |Circuit 2: sky130_fd_sc_hd__decap_3                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (1)                                                   |sky130_fd_pr__pfet_01v8_hvt (1)                                                   
+sky130_fd_pr__nfet_01v8 (1)                                                       |sky130_fd_pr__nfet_01v8 (1)                                                       
+Number of devices: 2                                                              |Number of devices: 2                                                              
+Number of nets: 2                                                                 |Number of nets: 2                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__decap_3                                               |Circuit 2: sky130_fd_sc_hd__decap_3                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__decap_3 and sky130_fd_sc_hd__decap_3 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__decap_4                                               |Circuit 2: sky130_fd_sc_hd__decap_4                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (1)                                                   |sky130_fd_pr__pfet_01v8_hvt (1)                                                   
+sky130_fd_pr__nfet_01v8 (1)                                                       |sky130_fd_pr__nfet_01v8 (1)                                                       
+Number of devices: 2                                                              |Number of devices: 2                                                              
+Number of nets: 2                                                                 |Number of nets: 2                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__decap_4                                               |Circuit 2: sky130_fd_sc_hd__decap_4                                               
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__decap_4 and sky130_fd_sc_hd__decap_4 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__buf_4                                                 |Circuit 2: sky130_fd_sc_hd__buf_4                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (5->2)                                                |sky130_fd_pr__pfet_01v8_hvt (5->2)                                                
+sky130_fd_pr__nfet_01v8 (5->2)                                                    |sky130_fd_pr__nfet_01v8 (5->2)                                                    
+Number of devices: 4                                                              |Number of devices: 4                                                              
+Number of nets: 5                                                                 |Number of nets: 5                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__buf_4                                                 |Circuit 2: sky130_fd_sc_hd__buf_4                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+X                                                                                 |X                                                                                 
+VGND                                                                              |VGND                                                                              
+A                                                                                 |A                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__buf_4 and sky130_fd_sc_hd__buf_4 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__clkbuf_8                                              |Circuit 2: sky130_fd_sc_hd__clkbuf_8                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (10->2)                                               |sky130_fd_pr__pfet_01v8_hvt (10->2)                                               
+sky130_fd_pr__nfet_01v8 (10->2)                                                   |sky130_fd_pr__nfet_01v8 (10->2)                                                   
+Number of devices: 4                                                              |Number of devices: 4                                                              
+Number of nets: 5                                                                 |Number of nets: 5                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkbuf_8                                              |Circuit 2: sky130_fd_sc_hd__clkbuf_8                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+A                                                                                 |A                                                                                 
+X                                                                                 |X                                                                                 
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkbuf_8 and sky130_fd_sc_hd__clkbuf_8 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__buf_2                                                 |Circuit 2: sky130_fd_sc_hd__buf_2                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (3->2)                                                |sky130_fd_pr__pfet_01v8_hvt (3->2)                                                
+sky130_fd_pr__nfet_01v8 (3->2)                                                    |sky130_fd_pr__nfet_01v8 (3->2)                                                    
+Number of devices: 4                                                              |Number of devices: 4                                                              
+Number of nets: 5                                                                 |Number of nets: 5                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__buf_2                                                 |Circuit 2: sky130_fd_sc_hd__buf_2                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+X                                                                                 |X                                                                                 
+A                                                                                 |A                                                                                 
+VGND                                                                              |VGND                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__buf_2 and sky130_fd_sc_hd__buf_2 are equivalent.
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__clkbuf_4                                              |Circuit 2: sky130_fd_sc_hd__clkbuf_4                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_01v8_hvt (5->2)                                                |sky130_fd_pr__pfet_01v8_hvt (5->2)                                                
+sky130_fd_pr__nfet_01v8 (5->2)                                                    |sky130_fd_pr__nfet_01v8 (5->2)                                                    
+Number of devices: 4                                                              |Number of devices: 4                                                              
+Number of nets: 5                                                                 |Number of nets: 5                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkbuf_4                                              |Circuit 2: sky130_fd_sc_hd__clkbuf_4                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+VPWR                                                                              |VPWR                                                                              
+A                                                                                 |A                                                                                 
+VGND                                                                              |VGND                                                                              
+X                                                                                 |X                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkbuf_4 and sky130_fd_sc_hd__clkbuf_4 are equivalent.
+
+Subcircuit summary:
+Circuit 1: core_flat                                                              |Circuit 2: core_flat                                                              
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 |sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 
+sky130_fd_pr__res_generic_po (6)                                                  |sky130_fd_pr__res_generic_po (6)                                                  
+sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 |sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 
+sky130_fd_pr__nfet_01v8 (27)                                                      |sky130_fd_pr__nfet_01v8 (27)                                                      
+sky130_fd_pr__pfet_01v8 (27)                                                      |sky130_fd_pr__pfet_01v8 (27)                                                      
+sky130_fd_pr__reram_reram_cell (4)                                                |sky130_fd_pr__reram_reram_cell (4)                                                
+Number of devices: 128                                                            |Number of devices: 128                                                            
+Number of nets: 67 **Mismatch**                                                   |Number of nets: 73 **Mismatch**                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NET mismatches: Class fragments follow (with fanout counts):
+Circuit 1: core_flat                                                              |Circuit 2: core_flat                                                              
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vssd1                                                                        |Net: vssd1                                                                        
+  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  |  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 21                                              |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         |                                                                                  
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_0.level_shifter_1.vssd1                                    
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_2.level_shifter_1.vssd1                                    
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_1.level_shifter_1.vssd1                                    
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_0.DEMUX_final_0.VSS                                        
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_2.DEMUX_final_0.VSS                                        
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: controller_layout_1.DEMUX_final_0.VSS                                        
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists do not match.
+  Flattening non-matched subcircuits core_flat core_flat
+
+Subcircuit summary:
+Circuit 1: sky130_fd_sc_hd__buf_8                                                 |Circuit 2: sky130_fd_sc_hd__buf_8                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_pr__nfet_01v8 (11->2)                                                   |sky130_fd_pr__nfet_01v8 (11->2)                                                   
+sky130_fd_pr__pfet_01v8_hvt (11->2)                                               |sky130_fd_pr__pfet_01v8_hvt (11->2)                                               
+Number of devices: 4                                                              |Number of devices: 4                                                              
+Number of nets: 5                                                                 |Number of nets: 5                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__buf_8                                                 |Circuit 2: sky130_fd_sc_hd__buf_8                                                 
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+X                                                                                 |X                                                                                 
+VGND                                                                              |VGND                                                                              
+VPWR                                                                              |VPWR                                                                              
+A                                                                                 |A                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__buf_8 and sky130_fd_sc_hd__buf_8 are equivalent.
+
+Class user_proj_example (0):  Merged 104295 parallel devices.
+Class user_proj_example (1):  Merged 104295 parallel devices.
+Subcircuit summary:
+Circuit 1: user_proj_example                                                      |Circuit 2: user_proj_example                                                      
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_sc_hd__decap_6 (19519->1)                                               |sky130_fd_sc_hd__decap_6 (19519->1)                                               
+sky130_ef_sc_hd__decap_12 (81814->1)                                              |sky130_ef_sc_hd__decap_12 (81814->1)                                              
+sky130_fd_sc_hd__decap_8 (388->1)                                                 |sky130_fd_sc_hd__decap_8 (388->1)                                                 
+sky130_fd_sc_hd__decap_3 (2067->1)                                                |sky130_fd_sc_hd__decap_3 (2067->1)                                                
+sky130_fd_sc_hd__decap_4 (512->1)                                                 |sky130_fd_sc_hd__decap_4 (512->1)                                                 
+sky130_fd_sc_hd__buf_4 (3)                                                        |sky130_fd_sc_hd__buf_4 (3)                                                        
+sky130_fd_sc_hd__clkbuf_8 (2)                                                     |sky130_fd_sc_hd__clkbuf_8 (2)                                                     
+sky130_fd_sc_hd__buf_2 (1)                                                        |sky130_fd_sc_hd__buf_2 (1)                                                        
+sky130_fd_sc_hd__clkbuf_4 (1)                                                     |sky130_fd_sc_hd__clkbuf_4 (1)                                                     
+sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 |sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 
+sky130_fd_pr__res_generic_po (6)                                                  |sky130_fd_pr__res_generic_po (6)                                                  
+sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 |sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 
+sky130_fd_pr__nfet_01v8 (27)                                                      |sky130_fd_pr__nfet_01v8 (27)                                                      
+sky130_fd_pr__pfet_01v8 (27)                                                      |sky130_fd_pr__pfet_01v8 (27)                                                      
+sky130_fd_pr__reram_reram_cell (4)                                                |sky130_fd_pr__reram_reram_cell (4)                                                
+sky130_fd_sc_hd__buf_8 (1)                                                        |sky130_fd_sc_hd__buf_8 (1)                                                        
+Number of devices: 141                                                            |Number of devices: 141                                                            
+Number of nets: 75 **Mismatch**                                                   |Number of nets: 81 **Mismatch**                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NET mismatches: Class fragments follow (with fanout counts):
+Circuit 1: user_proj_example                                                      |Circuit 2: user_proj_example                                                      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vssd1                                                                        |Net: vssd1                                                                        
+  sky130_fd_sc_hd__decap_6/VGND = 1                                               |  sky130_fd_sc_hd__decap_6/VGND = 1                                               
+  sky130_ef_sc_hd__decap_12/VGND = 1                                              |  sky130_ef_sc_hd__decap_12/VGND = 1                                              
+  sky130_fd_sc_hd__decap_8/VGND = 1                                               |  sky130_fd_sc_hd__decap_8/VGND = 1                                               
+  sky130_fd_sc_hd__decap_3/VGND = 1                                               |  sky130_fd_sc_hd__decap_3/VGND = 1                                               
+  sky130_fd_sc_hd__decap_4/VGND = 1                                               |  sky130_fd_sc_hd__decap_4/VGND = 1                                               
+  sky130_fd_sc_hd__buf_4/VGND = 3                                                 |  sky130_fd_sc_hd__buf_4/VGND = 3                                                 
+  sky130_fd_sc_hd__clkbuf_8/VGND = 2                                              |  sky130_fd_sc_hd__clkbuf_8/VGND = 2                                              
+  sky130_fd_sc_hd__buf_2/VGND = 1                                                 |  sky130_fd_sc_hd__buf_2/VGND = 1                                                 
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1                                              |  sky130_fd_sc_hd__clkbuf_4/VGND = 1                                              
+  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  |  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  
+  sky130_fd_sc_hd__buf_8/VGND = 1                                                 |  sky130_fd_sc_hd__buf_8/VGND = 1                                                 
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 21                                              |                                                                                  
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_0.level_shifter_1.vssd1                         
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_2.level_shifter_1.vssd1                         
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_1.level_shifter_1.vssd1                         
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_0.DEMUX_final_0.VSS                             
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_2.level_shifter_1.in                            |(no matching net)                                                                 
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.level_shifter_1.in                            |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_1.level_shifter_0.in                            |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_2.level_shifter_0.in                            |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: /core_flat/controller_layout_1.level_shifter_0.in                            
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_2.level_shifter_0.in                            
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: /core_flat/controller_layout_1.level_shifter_1.in                            
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_2.level_shifter_1.in                            
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_2.switch_final_1.notIN                          |Net: /core_flat/controller_layout_2.switch_final_1.notIN                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_2.switch_final_3.notIN                          |Net: /core_flat/controller_layout_2.switch_final_3.notIN                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_1.switch_final_1.notIN                          |Net: /core_flat/controller_layout_1.switch_final_1.notIN                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.switch_final_3.notIN                          |Net: /core_flat/controller_layout_1.switch_final_3.notIN                          
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_2.switch_final_3.DIN                            |Net: /core_flat/controller_layout_2.switch_final_3.DIN                            
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_2.switch_final_1.DIN                            |Net: /core_flat/controller_layout_2.switch_final_1.DIN                            
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_1.switch_final_1.DIN                            |Net: /core_flat/controller_layout_1.switch_final_1.DIN                            
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.switch_final_3.DIN                            |Net: /core_flat/controller_layout_1.switch_final_3.DIN                            
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: /core_flat/controller_layout_1.DEMUX_final_0.VSS                             
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: /core_flat/controller_layout_2.DEMUX_final_0.VSS                             
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/a_n51180_n3506#                                                   |Net: /core_flat/a_n51180_n3506#                                                   
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |                                                                                  
+Net: /core_flat/a_9044_n39410#                                                    |Net: /core_flat/a_9044_n39410#                                                    
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: input6/X                                                                     |Net: input6/X                                                                     
+  sky130_fd_sc_hd__clkbuf_4/X = 1                                                 |  sky130_fd_sc_hd__clkbuf_4/X = 1                                                 
+  sky130_fd_pr__nfet_01v8/2 = 2                                                   |  sky130_fd_pr__nfet_01v8/2 = 2                                                   
+  sky130_fd_pr__pfet_01v8/2 = 2                                                   |  sky130_fd_pr__pfet_01v8/2 = 2                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: input4/X                                                                     |Net: input4/X                                                                     
+  sky130_fd_sc_hd__buf_2/X = 1                                                    |  sky130_fd_sc_hd__buf_2/X = 1                                                    
+  sky130_fd_pr__nfet_01v8/2 = 2                                                   |  sky130_fd_pr__nfet_01v8/2 = 2                                                   
+  sky130_fd_pr__pfet_01v8/2 = 2                                                   |  sky130_fd_pr__pfet_01v8/2 = 2                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/a_9136_n40432#                                                    |Net: /core_flat/a_9136_n40432#                                                    
+  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+Net: /core_flat/a_n51092_n3506#                                                   |Net: /core_flat/a_n51092_n3506#                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_2.level_shifter_0.inb                           |Net: /core_flat/controller_layout_2.level_shifter_0.inb                           
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.level_shifter_0.inb                           |Net: /core_flat/controller_layout_1.level_shifter_0.inb                           
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_2.level_shifter_1.inb                           |Net: /core_flat/controller_layout_2.level_shifter_1.inb                           
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.level_shifter_1.inb                           |Net: /core_flat/controller_layout_1.level_shifter_1.inb                           
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: /core_flat/controller_layout_2.DEMUX_final_0.NOT_0.OUT                       |Net: /core_flat/controller_layout_2.DEMUX_final_0.NOT_0.OUT                       
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |                                                                                  
+Net: /core_flat/controller_layout_1.DEMUX_final_0.NOT_0.OUT                       |Net: /core_flat/controller_layout_1.DEMUX_final_0.NOT_0.OUT                       
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vdda1_uq7                                                                    |Net: vdda1_uq7                                                                    
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 12                                         |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 12                                         
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vccd1                                                                        |Net: vccd1                                                                        
+  sky130_fd_sc_hd__decap_6/VPWR = 1                                               |  sky130_fd_sc_hd__decap_6/VPWR = 1                                               
+  sky130_ef_sc_hd__decap_12/VPWR = 1                                              |  sky130_ef_sc_hd__decap_12/VPWR = 1                                              
+  sky130_fd_sc_hd__decap_8/VPWR = 1                                               |  sky130_fd_sc_hd__decap_8/VPWR = 1                                               
+  sky130_fd_sc_hd__decap_3/VPWR = 1                                               |  sky130_fd_sc_hd__decap_3/VPWR = 1                                               
+  sky130_fd_sc_hd__decap_4/VPWR = 1                                               |  sky130_fd_sc_hd__decap_4/VPWR = 1                                               
+  sky130_fd_sc_hd__buf_4/VPWR = 3                                                 |  sky130_fd_sc_hd__buf_4/VPWR = 3                                                 
+  sky130_fd_sc_hd__clkbuf_8/VPWR = 2                                              |  sky130_fd_sc_hd__clkbuf_8/VPWR = 2                                              
+  sky130_fd_sc_hd__buf_2/VPWR = 1                                                 |  sky130_fd_sc_hd__buf_2/VPWR = 1                                                 
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 1                                              |  sky130_fd_sc_hd__clkbuf_4/VPWR = 1                                              
+  sky130_fd_pr__pfet_01v8/(1|3) = 27                                              |  sky130_fd_pr__pfet_01v8/(1|3) = 27                                              
+  sky130_fd_sc_hd__buf_8/VPWR = 1                                                 |  sky130_fd_sc_hd__buf_8/VPWR = 1                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DEVICE mismatches: Class fragments follow (with node fanout counts):
+Circuit 1: user_proj_example                                                      |Circuit 2: user_proj_example                                                      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: core_flat/sky130_fd_pr__nfet_01v8:21                                    |Instance: core_flat/sky130_fd_pr__nfet_01v8:21                                    
+  (1,3) = (52,4)                                                                  |  (1,3) = (5,4)                                                                   
+  2 = 5                                                                           |  2 = 5                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_01v8:74                                    |Instance: core_flat/sky130_fd_pr__nfet_01v8:74                                    
+  (1,3) = (52,4)                                                                  |  (1,3) = (5,4)                                                                   
+  2 = 5                                                                           |  2 = 5                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:92                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:92                               
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:41                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:41                               
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:34                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:34                               
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:17                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:17                               
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:102                              |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:102                              
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:84                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:84                               
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:66                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:66                               
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:25                               |Instance: core_flat/sky130_fd_pr__nfet_g5v0d10v5:25                               
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists do not match.
+  Flattening non-matched subcircuits user_proj_example user_proj_example
+
+Subcircuit summary:
+Circuit 1: user_project_wrapper                                                   |Circuit 2: user_project_wrapper                                                   
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+sky130_fd_sc_hd__decap_6 (19519->1)                                               |sky130_fd_sc_hd__decap_6 (19519->1)                                               
+sky130_ef_sc_hd__decap_12 (81814->1)                                              |sky130_ef_sc_hd__decap_12 (81814->1)                                              
+sky130_fd_sc_hd__decap_8 (388->1)                                                 |sky130_fd_sc_hd__decap_8 (388->1)                                                 
+sky130_fd_sc_hd__decap_3 (2067->1)                                                |sky130_fd_sc_hd__decap_3 (2067->1)                                                
+sky130_fd_sc_hd__decap_4 (512->1)                                                 |sky130_fd_sc_hd__decap_4 (512->1)                                                 
+sky130_fd_sc_hd__buf_4 (3)                                                        |sky130_fd_sc_hd__buf_4 (3)                                                        
+sky130_fd_sc_hd__clkbuf_8 (2)                                                     |sky130_fd_sc_hd__clkbuf_8 (2)                                                     
+sky130_fd_sc_hd__buf_2 (1)                                                        |sky130_fd_sc_hd__buf_2 (1)                                                        
+sky130_fd_sc_hd__clkbuf_4 (1)                                                     |sky130_fd_sc_hd__clkbuf_4 (1)                                                     
+sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 |sky130_fd_pr__pfet_g5v0d10v5 (24)                                                 
+sky130_fd_pr__res_generic_po (6)                                                  |sky130_fd_pr__res_generic_po (6)                                                  
+sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 |sky130_fd_pr__nfet_g5v0d10v5 (40)                                                 
+sky130_fd_pr__nfet_01v8 (27)                                                      |sky130_fd_pr__nfet_01v8 (27)                                                      
+sky130_fd_pr__pfet_01v8 (27)                                                      |sky130_fd_pr__pfet_01v8 (27)                                                      
+sky130_fd_pr__reram_reram_cell (4)                                                |sky130_fd_pr__reram_reram_cell (4)                                                
+sky130_fd_sc_hd__buf_8 (1)                                                        |sky130_fd_sc_hd__buf_8 (1)                                                        
+Number of devices: 141                                                            |Number of devices: 141                                                            
+Number of nets: 75 **Mismatch**                                                   |Number of nets: 81 **Mismatch**                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NET mismatches: Class fragments follow (with fanout counts):
+Circuit 1: user_project_wrapper                                                   |Circuit 2: user_project_wrapper                                                   
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vssd1                                                                        |Net: vssd1                                                                        
+  sky130_fd_sc_hd__decap_6/VGND = 1                                               |  sky130_fd_sc_hd__decap_6/VGND = 1                                               
+  sky130_ef_sc_hd__decap_12/VGND = 1                                              |  sky130_ef_sc_hd__decap_12/VGND = 1                                              
+  sky130_fd_sc_hd__decap_8/VGND = 1                                               |  sky130_fd_sc_hd__decap_8/VGND = 1                                               
+  sky130_fd_sc_hd__decap_3/VGND = 1                                               |  sky130_fd_sc_hd__decap_3/VGND = 1                                               
+  sky130_fd_sc_hd__decap_4/VGND = 1                                               |  sky130_fd_sc_hd__decap_4/VGND = 1                                               
+  sky130_fd_sc_hd__buf_4/VGND = 3                                                 |  sky130_fd_sc_hd__buf_4/VGND = 3                                                 
+  sky130_fd_sc_hd__clkbuf_8/VGND = 2                                              |  sky130_fd_sc_hd__clkbuf_8/VGND = 2                                              
+  sky130_fd_sc_hd__buf_2/VGND = 1                                                 |  sky130_fd_sc_hd__buf_2/VGND = 1                                                 
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1                                              |  sky130_fd_sc_hd__clkbuf_4/VGND = 1                                              
+  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  |  sky130_fd_pr__res_generic_po/(end_a|end_b) = 6                                  
+  sky130_fd_sc_hd__buf_8/VGND = 1                                                 |  sky130_fd_sc_hd__buf_8/VGND = 1                                                 
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 21                                              |                                                                                  
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_0.level_shifter_1.vssd1  
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_1.vssd1  
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_1.vssd1  
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 4                                          
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_0.DEMUX_final_0.VSS      
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_1.in     |(no matching net)                                                                 
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_1.in     |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_0.in     |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_0.in     |(no matching net)                                                                 
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |                                                                                  
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |                                                                                  
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |                                                                                  
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |                                                                                  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_0.in     
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_0.in     
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_1.in     
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_1.in     
+                                                                                  |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+                                                                                  |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_1.notIN   |Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_1.notIN   
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_3.notIN   |Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_3.notIN   
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_1.notIN   |Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_1.notIN   
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_3.notIN   |Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_3.notIN   
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_3.DIN     |Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_3.DIN     
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_1.DIN     |Net: user_proj_example:mprj//core_flat/controller_layout_2.switch_final_1.DIN     
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_1.DIN     |Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_1.DIN     
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_3.DIN     |Net: user_proj_example:mprj//core_flat/controller_layout_1.switch_final_3.DIN     
+  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__pfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 1                                          
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 2                                          
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 1                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_1.DEMUX_final_0.VSS      
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+                                                                                  |                                                                                  
+(no matching net)                                                                 |Net: user_proj_example:mprj//core_flat/controller_layout_2.DEMUX_final_0.VSS      
+                                                                                  |  sky130_fd_pr__nfet_01v8/(1|3) = 5                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/a_n51180_n3506#                            |Net: user_proj_example:mprj//core_flat/a_n51180_n3506#                            
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/a_9044_n39410#                             |Net: user_proj_example:mprj//core_flat/a_9044_n39410#                             
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 2                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj/input6/X                                              |Net: user_proj_example:mprj/input6/X                                              
+  sky130_fd_sc_hd__clkbuf_4/X = 1                                                 |  sky130_fd_sc_hd__clkbuf_4/X = 1                                                 
+  sky130_fd_pr__nfet_01v8/2 = 2                                                   |  sky130_fd_pr__nfet_01v8/2 = 2                                                   
+  sky130_fd_pr__pfet_01v8/2 = 2                                                   |  sky130_fd_pr__pfet_01v8/2 = 2                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj/input4/X                                              |Net: user_proj_example:mprj/input4/X                                              
+  sky130_fd_sc_hd__buf_2/X = 1                                                    |  sky130_fd_sc_hd__buf_2/X = 1                                                    
+  sky130_fd_pr__nfet_01v8/2 = 2                                                   |  sky130_fd_pr__nfet_01v8/2 = 2                                                   
+  sky130_fd_pr__pfet_01v8/2 = 2                                                   |  sky130_fd_pr__pfet_01v8/2 = 2                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/a_9136_n40432#                             |Net: user_proj_example:mprj//core_flat/a_9136_n40432#                             
+  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/a_n51092_n3506#                            |Net: user_proj_example:mprj//core_flat/a_n51092_n3506#                            
+  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 2                                               
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vccd1                                                                        |Net: vccd1                                                                        
+  sky130_fd_sc_hd__decap_6/VPWR = 1                                               |  sky130_fd_sc_hd__decap_6/VPWR = 1                                               
+  sky130_ef_sc_hd__decap_12/VPWR = 1                                              |  sky130_ef_sc_hd__decap_12/VPWR = 1                                              
+  sky130_fd_sc_hd__decap_8/VPWR = 1                                               |  sky130_fd_sc_hd__decap_8/VPWR = 1                                               
+  sky130_fd_sc_hd__decap_3/VPWR = 1                                               |  sky130_fd_sc_hd__decap_3/VPWR = 1                                               
+  sky130_fd_sc_hd__decap_4/VPWR = 1                                               |  sky130_fd_sc_hd__decap_4/VPWR = 1                                               
+  sky130_fd_sc_hd__buf_4/VPWR = 3                                                 |  sky130_fd_sc_hd__buf_4/VPWR = 3                                                 
+  sky130_fd_sc_hd__clkbuf_8/VPWR = 2                                              |  sky130_fd_sc_hd__clkbuf_8/VPWR = 2                                              
+  sky130_fd_sc_hd__buf_2/VPWR = 1                                                 |  sky130_fd_sc_hd__buf_2/VPWR = 1                                                 
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 1                                              |  sky130_fd_sc_hd__clkbuf_4/VPWR = 1                                              
+  sky130_fd_pr__pfet_01v8/(1|3) = 27                                              |  sky130_fd_pr__pfet_01v8/(1|3) = 27                                              
+  sky130_fd_sc_hd__buf_8/VPWR = 1                                                 |  sky130_fd_sc_hd__buf_8/VPWR = 1                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: vdda1                                                                        |Net: vdda1                                                                        
+  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         |  sky130_fd_pr__nfet_g5v0d10v5/(1|3) = 12                                         
+  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 12                                         |  sky130_fd_pr__pfet_g5v0d10v5/(1|3) = 12                                         
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_0.inb    |Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_0.inb    
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_0.inb    |Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_0.inb    
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_1.inb    |Net: user_proj_example:mprj//core_flat/controller_layout_2.level_shifter_1.inb    
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_1.inb    |Net: user_proj_example:mprj//core_flat/controller_layout_1.level_shifter_1.inb    
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              |  sky130_fd_pr__nfet_g5v0d10v5/2 = 2                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net: user_proj_example:mprj//core_flat/controller_layout_2.DEMUX_final_0.NOT_0.OU |Net: user_proj_example:mprj//core_flat/controller_layout_2.DEMUX_final_0.NOT_0.OU 
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+                                                                                  |                                                                                  
+Net: user_proj_example:mprj//core_flat/controller_layout_1.DEMUX_final_0.NOT_0.OU |Net: user_proj_example:mprj//core_flat/controller_layout_1.DEMUX_final_0.NOT_0.OU 
+  sky130_fd_pr__nfet_01v8/2 = 1                                                   |  sky130_fd_pr__nfet_01v8/2 = 1                                                   
+  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__nfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               |  sky130_fd_pr__pfet_01v8/(1|3) = 1                                               
+  sky130_fd_pr__pfet_01v8/2 = 1                                                   |  sky130_fd_pr__pfet_01v8/2 = 1                                                   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DEVICE mismatches: Class fragments follow (with node fanout counts):
+Circuit 1: user_project_wrapper                                                   |Circuit 2: user_project_wrapper                                                   
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_01v8:21            |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_01v8:21            
+  (1,3) = (52,4)                                                                  |  (1,3) = (5,4)                                                                   
+  2 = 5                                                                           |  2 = 5                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_01v8:74            |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_01v8:74            
+  (1,3) = (52,4)                                                                  |  (1,3) = (5,4)                                                                   
+  2 = 5                                                                           |  2 = 5                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:92       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:92       
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:41       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:41       
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:34       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:34       
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:17       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:17       
+  (1,3) = (24,6)                                                                  |  (1,3) = (24,6)                                                                  
+  2 = 6                                                                           |  2 = 6                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:102      |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:102      
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:84       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:84       
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:66       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:66       
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+                                                                                  |                                                                                  
+Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:25       |Instance: user_proj_example:mprj//core_flat/sky130_fd_pr__nfet_g5v0d10v5:25       
+  (1,3) = (52,6)                                                                  |  (1,3) = (6,6)                                                                   
+  2 = 6                                                                           |  2 = 6                                                                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Netlists do not match.
+
+Subcircuit pins:
+Circuit 1: user_project_wrapper                                                   |Circuit 2: user_project_wrapper                                                   
+----------------------------------------------------------------------------------|----------------------------------------------------------------------------------
+vssd1                                                                             |(no matching pin)                                                                 
+vccd1                                                                             |vccd1                                                                             
+vdda1                                                                             |vdda1                                                                             
+analog_io[15]                                                                     |analog_io[15]                                                                     
+analog_io[16]                                                                     |analog_io[16]                                                                     
+io_in[8]                                                                          |io_in[8]                                                                          
+io_in[10]                                                                         |io_in[10]                                                                         
+Cell pin lists are equivalent.
+Device classes user_project_wrapper and user_project_wrapper are equivalent.
+
+Final result: Netlists do not match.

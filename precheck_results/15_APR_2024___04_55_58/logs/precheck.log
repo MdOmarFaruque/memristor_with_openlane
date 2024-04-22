@@ -1,0 +1,114 @@
+2024-04-15 04:55:58 - [INFO] - {{EXTRACTING FILES}} Extracting compressed files in: /home/engtech/Desktop/Openlane_v2/memristor
+2024-04-15 04:55:59 - [INFO] - {{Project Type Info}} digital
+2024-04-15 04:55:59 - [INFO] - {{Project GDS Info}} user_project_wrapper: 629051ab5dfecd54be5070cb3f31d06adb41e2d8
+2024-04-15 04:55:59 - [INFO] - {{Tools Info}} KLayout: v0.28.12 | Magic: v8.3.452
+2024-04-15 04:55:59 - [INFO] - {{PDKs Info}} SKY130B: 7198cf647113f56041e02abf3eb623692820c5e1 | Open PDKs: 78b7bc32ddb4b6f14f76883c2e2dc5b5de9d1cbc
+2024-04-15 04:55:59 - [INFO] - {{START}} Precheck Started, the full log 'precheck.log' will be located in '/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs'
+2024-04-15 04:55:59 - [INFO] - {{PRECHECK SEQUENCE}} Precheck will run the following checks: [License, Makefile, Default, Documentation, Consistency, GPIO-Defines, XOR, Magic DRC, Klayout FEOL, Klayout BEOL, Klayout Offgrid, Klayout Metal Minimum Clear Area Density, Klayout Pin Label Purposes Overlapping Drawing, Klayout ZeroArea, OEB, LVS]
+2024-04-15 04:55:59 - [INFO] - {{STEP UPDATE}} Executing Check 1 of 16: License
+2024-04-15 04:56:00 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:00 - [INFO] - {{MAIN LICENSE CHECK PASSED}} An approved LICENSE was found in project root.
+2024-04-15 04:56:00 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:01 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:02 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:03 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:03 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/engtech/Desktop/Openlane_v2/memristor.
+2024-04-15 04:56:03 - [INFO] - {{SUBMODULES LICENSE CHECK PASSED}} No prohibited LICENSE file(s) was found in project submodules
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/python3): 'utf-8' codec can't decode byte 0xf8 in position 96: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/python3.10): 'utf-8' codec can't decode byte 0xf8 in position 96: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/python): 'utf-8' codec can't decode byte 0xf8 in position 96: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/cli.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/cli-arm64.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/gui-arm64.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/gui.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/cli-64.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/gui-32.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/gui-64.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/setuptools/cli-32.exe): 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+2024-04-15 04:56:07 - [ERROR] - SPDX COMPLIANCE FILE UNICODE DECODE EXCEPTION in (/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/yaml/_yaml.cpython-310-x86_64-linux-gnu.so): 'utf-8' codec can't decode byte 0x90 in position 24: invalid start byte
+2024-04-15 04:56:07 - [WARNING] - {{SPDX COMPLIANCE CHECK FAILED}} Found 698 non-compliant file(s) with the SPDX Standard.
+2024-04-15 04:56:07 - [INFO] - SPDX COMPLIANCE: NON-COMPLIANT FILE(S) PREVIEW: ['/home/engtech/Desktop/Openlane_v2/memristor/user_proj_example.v', '/home/engtech/Desktop/Openlane_v2/memristor/.readthedocs.yaml', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/activate', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/activate.fish', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/pip', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/Activate.ps1', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/pip3.10', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/pip3', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/bin/activate.csh', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/distutils-precedence.pth', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/_yaml/__init__.py', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/RECORD', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/INSTALLER', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/METADATA', '/home/engtech/Desktop/Openlane_v2/memristor/caravel_venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/WHEEL']
+2024-04-15 04:56:07 - [INFO] - For the full SPDX compliance report check: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/spdx_compliance_report.log
+2024-04-15 04:56:07 - [INFO] - {{STEP UPDATE}} Executing Check 2 of 16: Makefile
+2024-04-15 04:56:07 - [INFO] - {{MAKEFILE CHECK PASSED}} Makefile valid.
+2024-04-15 04:56:07 - [INFO] - {{STEP UPDATE}} Executing Check 3 of 16: Default
+2024-04-15 04:56:07 - [WARNING] - The provided 'README.md' is identical to the default 'README.md'
+2024-04-15 04:56:07 - [WARNING] - {{README DEFAULT CHECK FAILED}} Project 'README.md' was not modified and is identical to the default 'README.md'
+2024-04-15 04:56:07 - [INFO] - {{CONTENT DEFAULT CHECK PASSED}} Project 'gds' was modified and is not identical to the default 'gds'
+2024-04-15 04:56:07 - [INFO] - {{STEP UPDATE}} Executing Check 4 of 16: Documentation
+2024-04-15 04:56:08 - [INFO] - {{DOCUMENTATION CHECK PASSED}} Project documentation is appropriate.
+2024-04-15 04:56:08 - [INFO] - {{STEP UPDATE}} Executing Check 5 of 16: Consistency
+2024-04-15 04:56:12 - [INFO] - PORTS CHECK PASSED: Netlist user_project_wrapper ports match the golden wrapper ports
+2024-04-15 04:56:12 - [INFO] - COMPLEXITY CHECK PASSED: Netlist user_project_wrapper contains at least 1 instances (1 instances). 
+2024-04-15 04:56:12 - [INFO] - MODELING CHECK PASSED: Netlist user_project_wrapper is structural.
+2024-04-15 04:56:12 - [INFO] - LAYOUT CHECK PASSED: The GDS layout for user_project_wrapper matches the provided structural netlist.
+2024-04-15 04:56:12 - [INFO] - POWER CONNECTIONS CHECK PASSED: All instances in user_project_wrapper are connected to power
+2024-04-15 04:56:12 - [INFO] - PORT TYPES CHECK PASSED: Netlist user_project_wrapper port types match the golden wrapper port types.
+2024-04-15 04:56:12 - [INFO] - {{NETLIST CONSISTENCY CHECK PASSED}} user_project_wrapper netlist passed all consistency checks.
+2024-04-15 04:56:12 - [INFO] - {{CONSISTENCY CHECK PASSED}} The user netlist and the top netlist are valid.
+2024-04-15 04:56:12 - [INFO] - {{STEP UPDATE}} Executing Check 6 of 16: GPIO-Defines
+2024-04-15 04:56:12 - [INFO] - GPIO-DEFINES: Checking verilog/rtl/user_defines.v, parsing files: ['/root/mpw_precheck/checks/gpio_defines_check/verilog_assets/gpio_modes_base.v', '/home/engtech/Desktop/Openlane_v2/memristor/verilog/rtl/user_defines.v', '/root/mpw_precheck/checks/gpio_defines_check/verilog_assets/gpio_modes_observe.v']
+2024-04-15 04:56:13 - [INFO] - GPIO-DEFINES report path: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/gpio_defines.report
+2024-04-15 04:56:13 - [INFO] - {{GPIO-DEFINES CHECK PASSED}} The user verilog/rtl/user_defines.v is valid.
+2024-04-15 04:56:13 - [INFO] - {{STEP UPDATE}} Executing Check 7 of 16: XOR
+2024-04-15 04:56:22 - [INFO] - {{XOR CHECK UPDATE}} Total XOR differences: 0, for more details view /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/user_project_wrapper.xor.gds
+2024-04-15 04:56:22 - [INFO] - {{XOR CHECK PASSED}} The GDS file has no XOR violations.
+2024-04-15 04:56:22 - [INFO] - {{STEP UPDATE}} Executing Check 8 of 16: Magic DRC
+2024-04-15 05:01:29 - [INFO] - 0 DRC violations
+2024-04-15 05:01:29 - [INFO] - {{MAGIC DRC CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:01:29 - [INFO] - {{STEP UPDATE}} Executing Check 9 of 16: Klayout FEOL
+2024-04-15 05:01:29 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:01:29 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/tech-files/sky130B_mr.drc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_feol_check.xml -rd thr=24 -rd feol=true >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_feol_check.log
+2024-04-15 05:02:36 - [INFO] - No DRC Violations found
+2024-04-15 05:02:36 - [INFO] - {{Klayout FEOL CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:02:36 - [INFO] - {{STEP UPDATE}} Executing Check 10 of 16: Klayout BEOL
+2024-04-15 05:02:36 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:02:36 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/tech-files/sky130B_mr.drc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_beol_check.xml -rd thr=24 -rd beol=true >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_beol_check.log
+2024-04-15 05:06:22 - [INFO] - No DRC Violations found
+2024-04-15 05:06:22 - [INFO] - {{Klayout BEOL CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:06:22 - [INFO] - {{STEP UPDATE}} Executing Check 11 of 16: Klayout Offgrid
+2024-04-15 05:06:22 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:06:22 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/tech-files/sky130B_mr.drc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_offgrid_check.xml -rd thr=24 -rd offgrid=true >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_offgrid_check.log
+2024-04-15 05:07:29 - [INFO] - No DRC Violations found
+2024-04-15 05:07:29 - [INFO] - {{Klayout Offgrid CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:07:29 - [INFO] - {{STEP UPDATE}} Executing Check 12 of 16: Klayout Metal Minimum Clear Area Density
+2024-04-15 05:07:29 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:07:29 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/drc_checks/klayout/met_min_ca_density.lydrc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_met_min_ca_density_check.xml -rd thr=24 >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_met_min_ca_density_check.log
+2024-04-15 05:07:46 - [INFO] - No DRC Violations found
+2024-04-15 05:07:46 - [INFO] - {{Klayout Metal Minimum Clear Area Density CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:07:46 - [INFO] - {{STEP UPDATE}} Executing Check 13 of 16: Klayout Pin Label Purposes Overlapping Drawing
+2024-04-15 05:07:46 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:07:46 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/drc_checks/klayout/pin_label_purposes_overlapping_drawing.rb.drc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_pin_label_purposes_overlapping_drawing_check.xml -rd thr=24 -rd top_cell_name=user_project_wrapper >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_pin_label_purposes_overlapping_drawing_check.log
+2024-04-15 05:08:00 - [INFO] - No DRC Violations found
+2024-04-15 05:08:00 - [INFO] - {{Klayout Pin Label Purposes Overlapping Drawing CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:08:00 - [INFO] - {{STEP UPDATE}} Executing Check 14 of 16: Klayout ZeroArea
+2024-04-15 05:08:00 - [INFO] - in CUSTOM klayout_gds_drc_check
+2024-04-15 05:08:00 - [INFO] - run: klayout -b -r /root/mpw_precheck/checks/drc_checks/klayout/zeroarea.rb.drc -rd input=/home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports/klayout_zeroarea_check.xml -rd thr=24 -rd cleaned_output=/home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/user_project_wrapper_no_zero_areas.gds >& /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/klayout_zeroarea_check.log
+2024-04-15 05:08:03 - [INFO] - No DRC Violations found
+2024-04-15 05:08:03 - [INFO] - {{Klayout ZeroArea CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2024-04-15 05:08:03 - [INFO] - {{STEP UPDATE}} Executing Check 15 of 16: OEB
+2024-04-15 05:08:03 - [INFO] - Loading LVS environment from /home/engtech/Desktop/Openlane_v2/memristor/lvs/user_project_wrapper/lvs_config.json
+2024-04-15 05:08:03 - [INFO] - EXTRACT_FLATGLOB : 
+2024-04-15 05:08:03 - [INFO] - EXTRACT_ABSTRACT : *__fill_* *__fakediode_* *__tapvpwrvgnd_*
+2024-04-15 05:08:03 - [INFO] - LVS_FLATTEN : 
+2024-04-15 05:08:03 - [INFO] - LVS_NOFLATTEN : 
+2024-04-15 05:08:03 - [INFO] - LVS_IGNORE : 
+2024-04-15 05:08:03 - [INFO] - LVS_SPICE_FILES : /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice /home/engtech/Desktop/Openlane_v2/memristor/xschem/simulation/core.spice
+2024-04-15 05:08:03 - [INFO] - LVS_VERILOG_FILES : /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_proj_example.v /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_project_wrapper.v
+2024-04-15 05:08:03 - [INFO] - LAYOUT_FILE : /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+2024-04-15 05:08:03 - [INFO] - run: run_oeb_check
+2024-04-15 05:08:03 - [INFO] - OEB output directory: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58
+2024-04-15 05:13:35 - [WARNING] - WARNING ERC CHECK FAILED, stat=4, see /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs/OEB_check.log
+2024-04-15 05:13:35 - [INFO] - {{OEB CHECK PASSED}} The design, user_project_wrapper, has no OEB violations.
+2024-04-15 05:13:35 - [INFO] - {{STEP UPDATE}} Executing Check 16 of 16: LVS
+2024-04-15 05:13:35 - [INFO] - Loading LVS environment from /home/engtech/Desktop/Openlane_v2/memristor/lvs/user_project_wrapper/lvs_config.json
+2024-04-15 05:13:35 - [INFO] - EXTRACT_FLATGLOB : 
+2024-04-15 05:13:35 - [INFO] - EXTRACT_ABSTRACT : *__fill_* *__fakediode_* *__tapvpwrvgnd_*
+2024-04-15 05:13:35 - [INFO] - LVS_FLATTEN : 
+2024-04-15 05:13:35 - [INFO] - LVS_NOFLATTEN : 
+2024-04-15 05:13:35 - [INFO] - LVS_IGNORE : 
+2024-04-15 05:13:35 - [INFO] - LVS_SPICE_FILES : /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice /home/engtech/Desktop/Openlane_v2/memristor/xschem/simulation/core.spice
+2024-04-15 05:13:35 - [INFO] - LVS_VERILOG_FILES : /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_proj_example.v /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_project_wrapper.v
+2024-04-15 05:13:35 - [INFO] - LAYOUT_FILE : /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+2024-04-15 05:13:35 - [INFO] - run: run_be_checks
+2024-04-15 05:13:35 - [INFO] - LVS output directory: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58

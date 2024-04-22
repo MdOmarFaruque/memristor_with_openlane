@@ -1,0 +1,39 @@
+ gpio |   in   |   out  | analog |  oeb min/sim/max  | Message
+  35  |        |        |        |      /     /      | 
+  26  |        |        |        |      /     /      | 
+  17  |        |        |        |      /     /      | 
+   4  |        |        |        |      /     /      | 
+  36  |        |        |        |      /     /      | 
+  27  |        |        |        |      /     /      | 
+  18  |        |        |        |      /     /      | 
+   5  |        |        |        |      /     /      | 
+  37  |        |        |        |      /     /      | 
+  28  |        |        |        |      /     /      | 
+  19  |        |        |        |      /     /      | 
+   6  |        |        |        |      /     /      | 
+  29  |        |        |        |      /     /      | 
+   7  |        |        |        |      /     /      | 
+   8  |      4 |        |        | vccd*/vccd*/vccd* | 
+   9  |      4 |        |        | vccd*/vccd*/vccd* | 
+  10  |      4 |        |        | vccd*/vccd*/vccd* | 
+  20  |        |        |        |      /     /      | 
+  11  |      4 |        |        | vccd*/vccd*/vccd* | 
+  30  |        |        |        |      /     /      | 
+  21  |        |        |      4 |      /     /      | Warning: oeb expected high for analog
+  12  |      4 |        |        | vccd*/vccd*/vccd* | 
+  31  |        |        |        |      /     /      | 
+  22  |        |        |      4 |      /     /      | Warning: oeb expected high for analog
+  13  |      4 |        |        | vccd*/vccd*/vccd* | 
+   0  |        |        |        |      /     /      | 
+  32  |        |        |        |      /     /      | 
+  23  |        |        |      4 |      /     /      | Warning: oeb expected high for analog
+  14  |        |        |        | vccd*/vccd*/vccd* | 
+   1  |        |        |        |      /     /      | 
+  33  |        |        |        |      /     /      | 
+  24  |        |        |        |      /     /      | 
+  15  |        |        |        | vccd*/vccd*/vccd* | 
+   2  |        |        |        |      /     /      | 
+  34  |        |        |        |      /     /      | 
+  25  |        |        |        |      /     /      | 
+  16  |        |        |        | vccd*/vccd*/vccd* | 
+   3  |        |        |        |      /     /      | 

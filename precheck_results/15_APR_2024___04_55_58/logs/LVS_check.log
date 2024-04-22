@@ -1,0 +1,44 @@
+
+TOP SOURCE: user_project_wrapper
+SOURCE FILE(S): /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice
+ /home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
+ /home/engtech/Desktop/Openlane_v2/memristor/xschem/simulation/core.spice
+ /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_proj_example.v
+ /home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_project_wrapper.v
+TOP LAYOUT: user_project_wrapper
+LAYOUT FILE: /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+EXTRACT_FLATGLOB: 
+EXTRACT_ABSTRACT: *__fill_*
+ *__fakediode_*
+ *__tapvpwrvgnd_*
+LVS_FLATTEN: 
+LVS_NOFLATTEN: 
+LVS_IGNORE: 
+WORK_ROOT   : /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp
+LOG_ROOT    : /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs
+SIGNOFF_ROOT: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports
+ 
+Running hierarchical comparison between verilog and layout...
+Creating /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp/verilog.cells from the following files...
+	/home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_proj_example.v
+	/home/engtech/Desktop/Openlane_v2/memristor/verilog/gl/user_project_wrapper.v
+[INFO] Changing from /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+	to /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp/layout.txt
+Hierarchy check for user_project_wrapper passed.
+ 
+Running soft connection check on layout...
+WARNING: Tech files do not match:
+/home/engtech/Desktop/Openlane_v2/memristor/dependencies/pdks/sky130B/libs.tech/magic/sky130B.tech: version 1.0.424-0-g78b7bc3
+/root/mpw_precheck/checks/be_checks//tech/sky130B/sky130B.tech: version 1.0.446-0-gdd7771c
+Results may be incorrect. Contact efabless to update the soft connection rules.
+WORK_ROOT   : /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp
+LOG_ROOT    : /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/logs
+SIGNOFF_ROOT: /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/outputs/reports
+TOP: user_project_wrapper
+LAYOUT: /home/engtech/Desktop/Openlane_v2/memristor/gds/user_project_wrapper.gds
+EXTRACT_FLATGLOB: 
+EXTRACT_ABSTRACT: *__fill_*
+ *__fakediode_*
+ *__tapvpwrvgnd_*
+Extracting layout with well in background process. See /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp/ext.log.
+Extracting layout without well in background process. See /home/engtech/Desktop/Openlane_v2/memristor/precheck_results/15_APR_2024___04_55_58/tmp/nowell.ext.log.

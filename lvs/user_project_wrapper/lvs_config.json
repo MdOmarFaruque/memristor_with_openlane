@@ -25,7 +25,6 @@
         ],
         "LVS_VERILOG_FILES": [
                 "$UPRJ_ROOT/lvs/$TOP_SOURCE/defines.v",
-                "$UPRJ_ROOT/verilog/rtl/core_flat_v4.v",
                 "$UPRJ_ROOT/verilog/gl/user_proj_example.v",
                 "$UPRJ_ROOT/verilog/gl/$TOP_SOURCE.v"
 

@@ -104,9 +104,9 @@ XM2 OUT SEL vcc vcc sky130_fd_pr__pfet_01v8 L=0.15 W=1 nf=1 m=1
 **** begin user architecture code
 
 .subckt sky130_fd_pr__reram_reram_cell TE BE Tfilament_0=3.3e-9 area_ox=0.1024e-12
-N1 TE BE nFilament sky130_fd_pr_reram__reram_model
-.ic v(nFilament)={Tfilament_0*1.0e9}
+R0 TE BE sky130_fd_pr_reram__reram_cell
 .ends sky130_fd_pr__reram_reram_cell
+
 
 .model sky130_fd_pr_reram__reram_model sky130_fd_pr_reram__reram_module  area_ox = 0.1024e-12  Tox =
 + 5.0  Tfilament_max = 4.9  Tfilament_min = 3.3  Eact_generation = 1.501  Eact_recombination  = 1.500
