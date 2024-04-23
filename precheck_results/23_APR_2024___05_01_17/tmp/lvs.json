@@ -1,0 +1,3608 @@
+[
+  {
+   "pins": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ], [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ], [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ], [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ], [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "1",
+        "2"
+      ], [
+        "1",
+        "2"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ], [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "VPWR",
+        "VGND"
+      ], [
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__decap_6",
+      "sky130_fd_sc_hd__decap_6"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1 ],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ], [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_ef_sc_hd__decap_12",
+      "sky130_ef_sc_hd__decap_12"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1 ],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ], [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "VPWR",
+        "VGND",
+        "VPB",
+        "VNB"
+      ], [
+        "VPWR",
+        "VGND",
+        "VPB",
+        "VNB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__decap_8",
+      "sky130_fd_sc_hd__decap_8"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1 ],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ], [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__decap_3",
+      "sky130_fd_sc_hd__decap_3"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1 ],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ], [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__decap_4",
+      "sky130_fd_sc_hd__decap_4"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 1 ],
+         ["sky130_fd_pr__nfet_01v8", 1 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ], [
+        "VPB",
+        "VNB",
+        "VPWR",
+        "VGND"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "VGND",
+        "VPWR",
+        "VPB",
+        "VNB"
+      ], [
+        "VGND",
+        "VPWR",
+        "VPB",
+        "VNB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__diode_2",
+      "sky130_fd_sc_hd__diode_2"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__diode_pw2nd_05v5", 1 ]
+       ], [
+         ["sky130_fd_pr__diode_pw2nd_05v5", 1 ]
+       ]
+   ],
+   "nets": [
+    2,
+    2
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VNB",
+        "DIODE",
+        "VGND",
+        "VPWR",
+        "VPB"
+      ], [
+        "VNB",
+        "DIODE",
+        "VGND",
+        "VPWR",
+        "VPB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "core_flat_v4",
+      "core_flat_v4"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_g5v0d10v5", 24],
+         ["sky130_fd_pr__res_generic_po", 6],
+         ["sky130_fd_pr__nfet_g5v0d10v5", 40],
+         ["sky130_fd_pr__nfet_01v8", 27],
+         ["sky130_fd_pr__pfet_01v8", 27],
+         ["sky130_fd_pr__reram_reram_cell", 4 ]
+       ], [
+         ["sky130_fd_pr__pfet_g5v0d10v5", 24 ],
+         ["sky130_fd_pr__res_generic_po", 6 ],
+         ["sky130_fd_pr__nfet_g5v0d10v5", 40 ],
+         ["sky130_fd_pr__nfet_01v8", 27 ],
+         ["sky130_fd_pr__pfet_01v8", 27 ],
+         ["sky130_fd_pr__reram_reram_cell", 4 ]
+       ]
+   ],
+   "nets": [
+    68,
+    68
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "properties": [
+      [
+         [
+           "sky130_fd_pr__reram_reram_cell:31",
+           [
+             ["area_ox", "0.0676"],
+             ["(no matching parameter)", "(no value)"]
+           ]
+         ],
+         [
+           "1T1R_2x2:1/sky130_fd_pr__reram_reram_cell:R2",
+           [
+             ["(no matching parameter)", "(no value)"],
+             ["Tfilament_0", "3.8e-9"]
+           ]
+         ]
+      ],
+      [
+         [
+           "sky130_fd_pr__reram_reram_cell:49",
+           [
+             ["area_ox", "0.0676"],
+             ["(no matching parameter)", "(no value)"]
+           ]
+         ],
+         [
+           "1T1R_2x2:1/sky130_fd_pr__reram_reram_cell:R3",
+           [
+             ["(no matching parameter)", "(no value)"],
+             ["Tfilament_0", "3.8e-9"]
+           ]
+         ]
+      ],
+      [
+         [
+           "sky130_fd_pr__reram_reram_cell:30",
+           [
+             ["area_ox", "0.0676"],
+             ["(no matching parameter)", "(no value)"]
+           ]
+         ],
+         [
+           "1T1R_2x2:1/sky130_fd_pr__reram_reram_cell:R1",
+           [
+             ["(no matching parameter)", "(no value)"],
+             ["Tfilament_0", "3.8e-9"]
+           ]
+         ]
+      ],
+      [
+         [
+           "sky130_fd_pr__reram_reram_cell:10",
+           [
+             ["area_ox", "0.0676"],
+             ["(no matching parameter)", "(no value)"]
+           ]
+         ],
+         [
+           "1T1R_2x2:1/sky130_fd_pr__reram_reram_cell:R4",
+           [
+             ["(no matching parameter)", "(no value)"],
+             ["Tfilament_0", "3.8e-9"]
+           ]
+         ]
+      ]
+   ],
+   "pins": [
+      [
+        "vccd1",
+        "vssa1",
+        "vdda1",
+        "vssd1",
+        "DIGITALIN1",
+        "DIGITALIN3",
+        "DIGITALIN2",
+        "SEL1",
+        "SEL3",
+        "SEL2",
+        "AIN3",
+        "AIN1",
+        "AIN2"
+      ], [
+        "VCCD1",
+        "VSSA1",
+        "VDDA1",
+        "VSSD1",
+        "DigitalIN1",
+        "DigitalIN3",
+        "DigitalIN2",
+        "SEL1",
+        "SEL3",
+        "SEL2",
+        "AIN3",
+        "AIN1",
+        "AIN2"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__buf_4",
+      "sky130_fd_sc_hd__buf_4"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2 ],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ]
+   ],
+   "nets": [
+    7,
+    7
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "X",
+        "VGND",
+        "VNB",
+        "VPWR",
+        "VPB",
+        "A"
+      ], [
+        "X",
+        "VGND",
+        "VNB",
+        "VPWR",
+        "VPB",
+        "A"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__buf_2",
+      "sky130_fd_sc_hd__buf_2"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2 ],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ]
+   ],
+   "nets": [
+    7,
+    7
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "X",
+        "VGND",
+        "VNB",
+        "A",
+        "VPWR",
+        "VPB"
+      ], [
+        "X",
+        "VGND",
+        "VNB",
+        "A",
+        "VPWR",
+        "VPB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__clkbuf_4",
+      "sky130_fd_sc_hd__clkbuf_4"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2 ],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ]
+   ],
+   "nets": [
+    7,
+    7
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VPWR",
+        "X",
+        "VPB",
+        "A",
+        "VGND",
+        "VNB"
+      ], [
+        "VPWR",
+        "X",
+        "VPB",
+        "A",
+        "VGND",
+        "VNB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__conb_1",
+      "sky130_fd_sc_hd__conb_1"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__res_generic_po", 2 ]
+       ], [
+         ["sky130_fd_pr__res_generic_po", 2 ]
+       ]
+   ],
+   "nets": [
+    4,
+    4
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "VGND",
+        "LO",
+        "HI",
+        "VPWR",
+        "VPB",
+        "VNB"
+      ], [
+        "VGND",
+        "LO",
+        "HI",
+        "VPWR",
+        "VPB",
+        "VNB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__clkbuf_2",
+      "sky130_fd_sc_hd__clkbuf_2"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2 ],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ]
+   ],
+   "nets": [
+    7,
+    7
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "A",
+        "VPWR",
+        "VPB",
+        "VGND",
+        "VNB",
+        "X"
+      ], [
+        "A",
+        "VPWR",
+        "VPB",
+        "VGND",
+        "VNB",
+        "X"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sky130_fd_sc_hd__clkbuf_8",
+      "sky130_fd_sc_hd__clkbuf_8"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ], [
+         ["sky130_fd_pr__pfet_01v8_hvt", 2 ],
+         ["sky130_fd_pr__nfet_01v8", 2 ]
+       ]
+   ],
+   "nets": [
+    7,
+    7
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "X",
+        "VGND",
+        "VNB",
+        "A",
+        "VPWR",
+        "VPB"
+      ], [
+        "X",
+        "VGND",
+        "VNB",
+        "A",
+        "VPWR",
+        "VPB"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "user_proj_example",
+      "user_proj_example"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_sc_hd__tapvpwrvgnd_1", 1],
+         ["sky130_fd_sc_hd__decap_6", 1],
+         ["sky130_ef_sc_hd__decap_12", 1],
+         ["sky130_fd_sc_hd__fill_1", 1],
+         ["sky130_fd_sc_hd__decap_8", 1],
+         ["sky130_fd_sc_hd__decap_3", 1],
+         ["sky130_fd_sc_hd__decap_4", 1],
+         ["sky130_fd_sc_hd__fill_2", 1],
+         ["sky130_fd_sc_hd__diode_2", 9],
+         ["core_flat_v4", 1],
+         ["sky130_fd_sc_hd__buf_4", 1],
+         ["sky130_fd_sc_hd__buf_2", 1],
+         ["sky130_fd_sc_hd__clkbuf_4", 1],
+         ["sky130_fd_sc_hd__conb_1", 9],
+         ["sky130_fd_sc_hd__clkbuf_2", 2],
+         ["sky130_fd_sc_hd__clkbuf_8", 1 ]
+       ], [
+         ["sky130_fd_sc_hd__tapvpwrvgnd_1", 1 ],
+         ["sky130_fd_sc_hd__decap_6", 1 ],
+         ["sky130_ef_sc_hd__decap_12", 1 ],
+         ["sky130_fd_sc_hd__fill_1", 1 ],
+         ["sky130_fd_sc_hd__decap_8", 1 ],
+         ["sky130_fd_sc_hd__decap_3", 1 ],
+         ["sky130_fd_sc_hd__decap_4", 1 ],
+         ["sky130_fd_sc_hd__fill_2", 1 ],
+         ["sky130_fd_sc_hd__diode_2", 9 ],
+         ["core_flat_v4", 1 ],
+         ["sky130_fd_sc_hd__buf_4", 1 ],
+         ["sky130_fd_sc_hd__buf_2", 1 ],
+         ["sky130_fd_sc_hd__clkbuf_4", 1 ],
+         ["sky130_fd_sc_hd__conb_1", 9 ],
+         ["sky130_fd_sc_hd__clkbuf_2", 2 ],
+         ["sky130_fd_sc_hd__clkbuf_8", 1 ]
+       ]
+   ],
+   "nets": [
+    37,
+    42
+   ],
+   "badnets": [
+      [
+        [
+          [
+            "input2/X",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL1", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "input3/X",
+            [
+              [ "core_flat_v4", "DIGITALIN1", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "input4/X",
+            [
+              [ "core_flat_v4", "SEL3", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "input5/X",
+            [
+              [ "core_flat_v4", "DIGITALIN3", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "input1/X",
+            [
+              [ "core_flat_v4", "SEL2", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "input6/X",
+            [
+              [ "core_flat_v4", "DIGITALIN2", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "analog_io1",
+            [
+              [ "core_flat_v4", "AIN1", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "analog_io3",
+            [
+              [ "core_flat_v4", "AIN3", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "analog_io2",
+            [
+              [ "core_flat_v4", "AIN2", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "vssa1_uq7",
+            [
+              [ "core_flat_v4", "vssa1", 1 ]
+            ]
+          ],
+          [
+            "vdda1_uq7",
+            [
+              [ "core_flat_v4", "vdda1", 1 ]
+            ]
+          ],
+          [
+            "SEL2",
+            [
+              [ "sky130_fd_sc_hd__buf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[0]",
+            [
+              [ "sky130_fd_sc_hd__buf_2", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[1]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_10/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_11/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_12/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_7/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_13/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_8/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_14/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_9/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example_15/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[3]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[4]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[5]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[0]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[6]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[1]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[7]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[2]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[8]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_in[4]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_8", "A", 1 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ], [
+          [
+            "net2",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL1", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "net1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL2", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "net4",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL3", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "analog_io1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN1", 1 ]
+            ]
+          ],
+          [
+            "analog_io2",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN2", 1 ]
+            ]
+          ],
+          [
+            "analog_io3",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN3", 1 ]
+            ]
+          ],
+          [
+            "net3",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "net6",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "X", 1 ]
+            ]
+          ],
+          [
+            "net5",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_1_",
+            [
+              [ "core_flat_v4", "DigitalIN1", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_2_",
+            [
+              [ "core_flat_v4", "DigitalIN2", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_3_",
+            [
+              [ "core_flat_v4", "DigitalIN3", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_4_",
+            [
+              [ "core_flat_v4", "VSSD1", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_5_",
+            [
+              [ "core_flat_v4", "VCCD1", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_6_",
+            [
+              [ "core_flat_v4", "VDDA1", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_7_",
+            [
+              [ "core_flat_v4", "VSSA1", 1 ]
+            ]
+          ],
+          [
+            "SEL2",
+            [
+              [ "sky130_fd_sc_hd__buf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[0]",
+            [
+              [ "sky130_fd_sc_hd__buf_2", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[1]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[4]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_8", "A", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[3]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[4]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[5]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[6]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[7]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[8]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[0]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[1]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[2]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_8_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_9_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_10_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_11_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_12_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_13_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_14_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_15_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "_noconnect_16_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ], [
+          [
+            "vccd1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPB", 9 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPWR", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPWR", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPWR", 9 ]
+            ]
+          ],
+          [
+            "vssd1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VNB", 9 ],
+              [ "sky130_ef_sc_hd__decap_12", "VGND", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VGND", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VNB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VNB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VGND", 9 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "vssd1",
+            [
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VNB", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VGND", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VNB", 9 ],
+              [ "core_flat_v4", "vssd1", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VNB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VGND", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VNB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VGND", 1 ]
+            ]
+          ],
+          [
+            "vccd1",
+            [
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPB", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPWR", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPB", 9 ],
+              [ "core_flat_v4", "vccd1", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPWR", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPWR", 1 ]
+            ]
+          ]
+        ], [
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ]
+      ]
+   ],
+   "badelements": [
+      [
+        [
+          [
+            "sky130_fd_sc_hd__clkbuf_8:input6",
+            [
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "input6",
+            [
+              [ "X", 2 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_15",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_9",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_14",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_8",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_13",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_7",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_12",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_11",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__conb_1:user_proj_example_10",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "user_proj_example_9",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_8",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_7",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_15",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_14",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_13",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_12",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_11",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "user_proj_example_10",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__clkbuf_4:input3",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "A", 1 ],
+              [ "X", 3 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "input3",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "A", 1 ],
+              [ "X", 2 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__buf_2:input2",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "input2",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__buf_4:input1",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "input1",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "core_flat_v4",
+            [
+              [ "SEL1", 3 ],
+              [ "DIGITALIN1", 3 ],
+              [ "AIN1", 2 ],
+              [ "SEL3", 3 ],
+              [ "DIGITALIN3", 3 ],
+              [ "AIN3", 2 ],
+              [ "SEL2", 3 ],
+              [ "DIGITALIN2", 3 ],
+              [ "AIN2", 2 ],
+              [ "vssa1", 1 ],
+              [ "vdda1", 1 ],
+              [ "vssd1", 64 ],
+              [ "vccd1", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "core_flat_v4",
+            [
+              [ "SEL1", 3 ],
+              [ "DigitalIN1", 1 ],
+              [ "AIN1", 2 ],
+              [ "SEL3", 3 ],
+              [ "DigitalIN3", 1 ],
+              [ "AIN3", 2 ],
+              [ "SEL2", 3 ],
+              [ "DigitalIN2", 1 ],
+              [ "AIN2", 2 ],
+              [ "VSSA1", 1 ],
+              [ "VDDA1", 1 ],
+              [ "VSSD1", 1 ],
+              [ "VCCD1", 1 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "ANTENNA_core_flat_v4_SEL3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_SEL2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_SEL1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_DIGITALIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_DIGITALIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_DIGITALIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_AIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_AIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "ANTENNA_core_flat_v4_AIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__fill_2:FILLER_0_131_89",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_726",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__decap_4:FILLER_0_133_1605",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_1311",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__decap_3:FILLER_0_2_1593",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_1005",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__decap_8:FILLER_0_110_3007",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_1112",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__fill_1:FILLER_0_313_2911",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_1105",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_ef_sc_hd__decap_12:FILLER_0_190_2603",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_100",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__decap_6:FILLER_0_155_2723",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "FILLER_0_0_1301",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "sky130_fd_sc_hd__tapvpwrvgnd_1:TAP_19242",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "TAP_10000",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ]
+            ]
+          ]
+        ]
+      ]
+   ]
+  },
+  {
+   "name": [
+      "user_project_wrapper",
+      "user_project_wrapper"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_sc_hd__tapvpwrvgnd_1", 1],
+         ["sky130_fd_sc_hd__decap_6", 1],
+         ["sky130_ef_sc_hd__decap_12", 1],
+         ["sky130_fd_sc_hd__fill_1", 1],
+         ["sky130_fd_sc_hd__decap_8", 1],
+         ["sky130_fd_sc_hd__decap_3", 1],
+         ["sky130_fd_sc_hd__decap_4", 1],
+         ["sky130_fd_sc_hd__fill_2", 1],
+         ["sky130_fd_sc_hd__diode_2", 9],
+         ["core_flat_v4", 1],
+         ["sky130_fd_sc_hd__buf_4", 1],
+         ["sky130_fd_sc_hd__buf_2", 1],
+         ["sky130_fd_sc_hd__clkbuf_4", 1],
+         ["sky130_fd_sc_hd__conb_1", 9],
+         ["sky130_fd_sc_hd__clkbuf_2", 2],
+         ["sky130_fd_sc_hd__clkbuf_8", 1 ]
+       ], [
+         ["sky130_fd_sc_hd__tapvpwrvgnd_1", 1 ],
+         ["sky130_fd_sc_hd__decap_6", 1 ],
+         ["sky130_ef_sc_hd__decap_12", 1 ],
+         ["sky130_fd_sc_hd__fill_1", 1 ],
+         ["sky130_fd_sc_hd__decap_8", 1 ],
+         ["sky130_fd_sc_hd__decap_3", 1 ],
+         ["sky130_fd_sc_hd__decap_4", 1 ],
+         ["sky130_fd_sc_hd__fill_2", 1 ],
+         ["sky130_fd_sc_hd__diode_2", 9 ],
+         ["core_flat_v4", 1 ],
+         ["sky130_fd_sc_hd__buf_4", 1 ],
+         ["sky130_fd_sc_hd__buf_2", 1 ],
+         ["sky130_fd_sc_hd__clkbuf_4", 1 ],
+         ["sky130_fd_sc_hd__conb_1", 9 ],
+         ["sky130_fd_sc_hd__clkbuf_2", 2 ],
+         ["sky130_fd_sc_hd__clkbuf_8", 1 ]
+       ]
+   ],
+   "nets": [
+    37,
+    42
+   ],
+   "badnets": [
+      [
+        [
+          [
+            "io_in[13]",
+            [
+              [ "sky130_fd_sc_hd__buf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[8]",
+            [
+              [ "sky130_fd_sc_hd__buf_2", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[9]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[12]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_8", "A", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[21]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[22]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[23]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[8]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[9]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[10]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[11]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[12]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[13]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "vdda1",
+            [
+              [ "core_flat_v4", "vdda1", 1 ]
+            ]
+          ],
+          [
+            "vssa1",
+            [
+              [ "core_flat_v4", "vssa1", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_10/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_11/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_12/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_7/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_13/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_8/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_14/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_9/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/user_proj_example_15/LO",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "analog_io[14]",
+            [
+              [ "core_flat_v4", "AIN1", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "analog_io[15]",
+            [
+              [ "core_flat_v4", "AIN2", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "analog_io[16]",
+            [
+              [ "core_flat_v4", "AIN3", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input2/X",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL1", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input3/X",
+            [
+              [ "core_flat_v4", "DIGITALIN1", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input4/X",
+            [
+              [ "core_flat_v4", "SEL3", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input5/X",
+            [
+              [ "core_flat_v4", "DIGITALIN3", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input1/X",
+            [
+              [ "core_flat_v4", "SEL2", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/input6/X",
+            [
+              [ "core_flat_v4", "DIGITALIN2", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "X", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ], [
+          [
+            "io_in[13]",
+            [
+              [ "sky130_fd_sc_hd__buf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[12]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_8", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[9]",
+            [
+              [ "sky130_fd_sc_hd__clkbuf_4", "A", 1 ]
+            ]
+          ],
+          [
+            "io_in[8]",
+            [
+              [ "sky130_fd_sc_hd__buf_2", "A", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[13]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[12]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[11]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[10]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[9]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[8]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[23]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[22]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "io_oeb[21]",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "HI", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_1_",
+            [
+              [ "core_flat_v4", "DigitalIN1", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_2_",
+            [
+              [ "core_flat_v4", "DigitalIN2", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_3_",
+            [
+              [ "core_flat_v4", "DigitalIN3", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_4_",
+            [
+              [ "core_flat_v4", "VSSD1", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_5_",
+            [
+              [ "core_flat_v4", "VCCD1", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_6_",
+            [
+              [ "core_flat_v4", "VDDA1", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_7_",
+            [
+              [ "core_flat_v4", "VSSA1", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_8_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_9_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_10_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_11_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_12_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_13_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_14_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_15_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "mprj/_noconnect_16_",
+            [
+              [ "sky130_fd_sc_hd__conb_1", "LO", 1 ]
+            ]
+          ],
+          [
+            "analog_io[14]",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN1", 1 ]
+            ]
+          ],
+          [
+            "analog_io[15]",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN2", 1 ]
+            ]
+          ],
+          [
+            "analog_io[16]",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "AIN3", 1 ]
+            ]
+          ],
+          [
+            "mprj/net3",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "mprj/net6",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "X", 1 ]
+            ]
+          ],
+          [
+            "mprj/net5",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "mprj/net2",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL1", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "X", 1 ]
+            ]
+          ],
+          [
+            "mprj/net1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL2", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "X", 1 ]
+            ]
+          ],
+          [
+            "mprj/net4",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "DIODE", 1 ],
+              [ "core_flat_v4", "SEL3", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "X", 1 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ], [
+          [
+            "vssd1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VNB", 9 ],
+              [ "sky130_ef_sc_hd__decap_12", "VGND", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VGND", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VNB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VNB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VGND", 9 ]
+            ]
+          ],
+          [
+            "vccd1",
+            [
+              [ "sky130_fd_sc_hd__diode_2", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPB", 9 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPWR", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPWR", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPWR", 9 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "vccd1",
+            [
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VPB", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPWR", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VPB", 9 ],
+              [ "core_flat_v4", "vccd1", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPWR", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VPWR", 9 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPWR", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VPB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VPWR", 1 ]
+            ]
+          ],
+          [
+            "vssd1",
+            [
+              [ "sky130_fd_sc_hd__tapvpwrvgnd_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_6", "VNB", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VGND", 1 ],
+              [ "sky130_ef_sc_hd__decap_12", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_1", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_3", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__decap_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__fill_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__diode_2", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__diode_2", "VNB", 9 ],
+              [ "core_flat_v4", "vssd1", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__buf_2", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VGND", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_4", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__conb_1", "VNB", 9 ],
+              [ "sky130_fd_sc_hd__conb_1", "VGND", 9 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VGND", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_2", "VNB", 2 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VNB", 1 ],
+              [ "sky130_fd_sc_hd__clkbuf_8", "VGND", 1 ]
+            ]
+          ]
+        ], [
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ],
+          [
+            "(no matching net)",
+            [
+              [ "", "", 0 ]
+            ]
+          ]
+        ]
+      ]
+   ],
+   "badelements": [
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__clkbuf_8:input6",
+            [
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/input6",
+            [
+              [ "X", 2 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_15",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_9",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_14",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_8",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_13",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_7",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_12",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_11",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__conb_1:user_proj_example_10",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/user_proj_example_9",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_8",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_7",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_15",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_14",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_13",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_12",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_11",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ],
+          [
+            "mprj/user_proj_example_10",
+            [
+              [ "LO", 1 ],
+              [ "HI", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__clkbuf_4:input3",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "A", 1 ],
+              [ "X", 3 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/input3",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "A", 1 ],
+              [ "X", 2 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__buf_2:input2",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/input2",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__buf_4:input1",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/input1",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "X", 3 ],
+              [ "A", 1 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj//core_flat_v4",
+            [
+              [ "SEL1", 3 ],
+              [ "DIGITALIN1", 3 ],
+              [ "AIN1", 2 ],
+              [ "SEL3", 3 ],
+              [ "DIGITALIN3", 3 ],
+              [ "AIN3", 2 ],
+              [ "SEL2", 3 ],
+              [ "DIGITALIN2", 3 ],
+              [ "AIN2", 2 ],
+              [ "vssa1", 1 ],
+              [ "vdda1", 1 ],
+              [ "vssd1", 64 ],
+              [ "vccd1", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/core_flat_v4",
+            [
+              [ "SEL1", 3 ],
+              [ "DigitalIN1", 1 ],
+              [ "AIN1", 2 ],
+              [ "SEL3", 3 ],
+              [ "DigitalIN3", 1 ],
+              [ "AIN3", 2 ],
+              [ "SEL2", 3 ],
+              [ "DigitalIN2", 1 ],
+              [ "AIN2", 2 ],
+              [ "VSSA1", 1 ],
+              [ "VDDA1", 1 ],
+              [ "VSSD1", 1 ],
+              [ "VCCD1", 1 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_AIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_DIGITALIN1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ],
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__diode_2:ANTENNA_core_flat_v4_SEL1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/ANTENNA_core_flat_v4_SEL3",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_SEL2",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_SEL1",
+            [
+              [ "DIODE", 3 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_DIGITALIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_DIGITALIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_DIGITALIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_AIN3",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_AIN2",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ],
+          [
+            "mprj/ANTENNA_core_flat_v4_AIN1",
+            [
+              [ "DIODE", 2 ],
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__fill_2:FILLER_0_131_89",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_726",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__decap_4:FILLER_0_133_1605",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_1311",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__decap_3:FILLER_0_2_1593",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_1005",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__decap_8:FILLER_0_110_3007",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_1112",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__fill_1:FILLER_0_313_2911",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_1105",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_ef_sc_hd__decap_12:FILLER_0_190_2603",
+            [
+              [ "VGND", 64 ],
+              [ "VPWR", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_100",
+            [
+              [ "VGND", 63 ],
+              [ "VPWR", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__decap_6:FILLER_0_155_2723",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ],
+              [ "VPB", 64 ],
+              [ "VNB", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/FILLER_0_0_1301",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ],
+              [ "VPB", 63 ],
+              [ "VNB", 63 ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "user_proj_example:mprj/sky130_fd_sc_hd__tapvpwrvgnd_1:TAP_19242",
+            [
+              [ "VPWR", 64 ],
+              [ "VGND", 64 ]
+            ]
+          ]
+        ], [
+          [
+            "mprj/TAP_10000",
+            [
+              [ "VPWR", 63 ],
+              [ "VGND", 63 ]
+            ]
+          ]
+        ]
+      ]
+   ],
+   "pins": [
+      [
+        "io_in[13]",
+        "io_in[8]",
+        "io_in[9]",
+        "io_in[12]",
+        "io_oeb[21]",
+        "io_oeb[22]",
+        "io_oeb[23]",
+        "io_oeb[8]",
+        "io_oeb[9]",
+        "io_oeb[10]",
+        "io_oeb[11]",
+        "io_oeb[12]",
+        "io_oeb[13]",
+        "vdda1",
+        "vssa1",
+        "analog_io[14]",
+        "analog_io[15]",
+        "analog_io[16]"
+      ], [
+        "io_in[13]",
+        "io_in[12]",
+        "io_in[9]",
+        "io_in[8]",
+        "io_oeb[13]",
+        "io_oeb[12]",
+        "io_oeb[11]",
+        "io_oeb[10]",
+        "io_oeb[9]",
+        "io_oeb[8]",
+        "io_oeb[23]",
+        "io_oeb[22]",
+        "io_oeb[21]",
+        "(no matching pin)",
+        "(no matching pin)",
+        "(no matching pin)",
+        "(no matching pin)",
+        "(no matching pin)"
+      ]
+   ]
+  }
+]

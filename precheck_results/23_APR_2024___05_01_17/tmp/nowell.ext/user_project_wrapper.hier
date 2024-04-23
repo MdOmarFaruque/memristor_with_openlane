@@ -1,0 +1,18 @@
+user_project_wrapper
+ user_proj_example 1
+  sky130_fd_sc_hd__decap_3 2064
+  sky130_fd_sc_hd__buf_2 1
+  sky130_fd_sc_hd__clkbuf_2 2
+  sky130_fd_sc_hd__decap_4 515
+  core_flat_v4 1
+  sky130_fd_sc_hd__fill_1 20553
+  sky130_fd_sc_hd__clkbuf_4 1
+  sky130_fd_sc_hd__buf_4 1
+  sky130_fd_sc_hd__decap_6 19519
+  sky130_fd_sc_hd__fill_2 5
+  sky130_fd_sc_hd__diode_2 9
+  sky130_fd_sc_hd__decap_8 396
+  sky130_fd_sc_hd__tapvpwrvgnd_1 20577
+  sky130_fd_sc_hd__conb_1 9
+  sky130_fd_sc_hd__clkbuf_8 1
+  sky130_ef_sc_hd__decap_12 81808

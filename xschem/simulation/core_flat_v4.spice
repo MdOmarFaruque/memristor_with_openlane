@@ -1,4 +1,4 @@
-** sch_path: /home/impact/Desktop/APRIL TAPEOUT DESIGN/SCHEMATIC/core_flat_v4.sch
+** sch_path: /home/impact/Desktop/APRIL TAPEOUT DESIGN/SCHEMATIC/core.sch
 .subckt core_flat_v4 DigitalIN1 AIN1 SEL1 DigitalIN2 AIN2 SEL2 DigitalIN3 AIN3 SEL3 VSSD1 VCCD1 VDDA1 VSSA1
 *.PININFO DigitalIN1:B AIN1:B SEL1:B DigitalIN2:B AIN2:B SEL2:B DigitalIN3:B AIN3:B SEL3:B VSSD1:B
 *+ VCCD1:B VDDA1:B VSSA1:B
@@ -103,9 +103,6 @@ XM2 OUT SEL vcc vcc sky130_fd_pr__pfet_01v8 L=0.15 W=1 nf=1 m=1
 
 **** begin user architecture code
 
-.subckt sky130_fd_pr__reram_reram_cell TE BE Tfilament_0=3.3e-9 area_ox=0.1024e-12
-R0 TE BE sky130_fd_pr_reram__reram_cell
-.ends sky130_fd_pr__reram_reram_cell
 
 
 .model sky130_fd_pr_reram__reram_model sky130_fd_pr_reram__reram_module  area_ox = 0.1024e-12  Tox =
