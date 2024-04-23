@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/engtech/Desktop/Openlane_v2/memristor/venv-cocotb"
+set -gx VIRTUAL_ENV "/home/engtech/Desktop/Openlane_v2/memristor_v2/venv-cocotb"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
